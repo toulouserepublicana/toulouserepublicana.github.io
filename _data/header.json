@@ -1,19 +1,60 @@
 { 
+  "shortheading" : {
+	  "en": "Inicio",
+	  "es": "Inicio",
+	  },
   "heading" : {
-  	"en" : "Hi, I'm Daniel Limberger,",
-  	"de" : "Hallo, ich bin Daniel Limberger," },
+  	"en" : "TOUR DEL EXILIO REPUBLICANO ESPAÑOL EN TOULOUSE",
+  	"de" : "xxxx" },
 
   "lead" : { 
-  	"en" : "a Berlin based Graphics Systems Engineer, Researcher, and Entrepreneur.",
+  	"en" : "Una visita guiada por la capital de la República durante la dictadura",
   	"de" : "Ingenieur, Forscher und Unternehmer für computergrafische Systeme." },
 
   "about" : {
-  	"en" : "I'm designing, developing, implementing, and maintaining mostly interactive computer graphics techniques and systems.
-  	As a PhD student in the <a href='https://hpi.de/doellner/index.html'>Computer Graphics Systems group</a> at the <a href='https://hpi.de/'>Hasso Plattner Institute</a> I study, teach, supervise, and publish in the fields of massive, multivariate data visualization, human-computer interaction, as well as programming and computer graphics fundamentals.
-  	As a co-founder and manager of <a href='https://www.cginternals.com'>CG Internals</a>, I offer graphics engineering related products, services, and solutions to the industry.",
-  	"de" : "Ich entwerfe, entwickle, implementiere und warte vorrangig interaktive, computergrafische Verfahren und Systeme.
-  	Als Promotionsstudent am <a href='http://hpi.de/doellner/index.html'>Fachgebiet für Computergrafische Systeme</a> des <a href='https://hpi.de/'>Hasso-Plattner-Instituts</a> studiere, lehre, betreue, and veröffentliche ich in Bereichen der Visualisierung massiver, mehrdimensionaler Daten, Mensch-Computer-Interaktion, sowie Computergrafik.
-  	Als Gründer und Geschäftsführer der <a href='https://www.cginternals.com'>CG Internals GmbH</a> biete ich Produkte, Dienstleistungen und Lösungen für computergrafische Anwendungen." },
+  	"en" : "En febrero de 1939 cruzan la frontera francesa casi 500.000 republicanos. 
+  	Cataluña acaba de caer y es la última fase de la Guerra Civil. 
+  	Cientos de miles de mujeres, niños y hombres ven cómo esta huida conocida como 
+  	&quot;<b>la Retirada</b>&quot; acaba en los diferentes campos de concentración del sur de Francia. 
+  	Quienes sobreviven a los campos y a las posteriores deportaciones del régimen nazi 
+  	tras la ocupación de Francia a menudo tienen solo dos opciones: volver a casa, 
+  	con todas las consecuencias, o afrontar un exilio en un país nuevo.
 
-  "picture" : "daniel-limberger-feb-2016.jpg"
+	<br><br>
+	
+	Toulouse fue la capital de la República Española durante la dictadura 
+	franquista y la ciudad de adopción de más de 150.000 republicanos que se quedaron. 
+	Un 10 &#37; de los habitantes de Tolouse tiene origen español. 
+	Basta con echar un vistazo a los buzones de las puertas para ver cómo 
+	abundan los apellidos de casa. Los Fernández, Cassany, García, Manrique, 
+	Miret y muchísimos más pueblan cada uno de los rincones de la ciudad, 
+	especialmente en el barrio de <b>Saint Cyprien</b>. Se nos oye en las terrazas, 
+	los mercados, en oficinas y en la vida política. 
+	Es imposible recorrer las calles de Toulouse sin tropezarte con el 
+	legado humano de quienes se vieron obligados a abandonar un país que 
+	nunca dejaron de recordar.
+
+	<br><br>
+	
+	La <i>ville rose</i>, llamada así por el color ocre y rosado del ladrillo 
+	de sus fachadas, acoge también el tramo a su paso por la ciudad del 
+	<b>Canal del Mediodía</b>, que conecta Toulouse con las orillas del Mediterráneo 
+	y del océano Atlántico. Este canal se ha convertido en un recorrido de 
+	vacaciones ideal para cruzar el sur francés de punta a punta, 
+	¡sin necesidad de salir del agua!
+
+	Pero entre sus límites naturales y murallas artificiales romanas, el 
+	casco antiguo de Toulouse esconde muchos lugares emblemáticos en los 
+	que se desarrollaron acontecimientos históricos que recordaremos con 
+	este Tour.
+	
+	<br><br>
+	Pasearemos por las coloridas calles tolosanas de mayor interés cultural 
+	y compartiremos algunos de los pasajes de la Historia española de la segunda 
+	mitad del siglo XX, cuyo recuerdo nos permitirá conocer mejor 
+	de dónde venimos y, quizá, curarnos.",
+  	
+  	"de" : "" },
+
+  "picture" : "minimes.jpg"
 }

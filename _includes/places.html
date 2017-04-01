@@ -1,0 +1,34 @@
+<div class="row text-xs-center">
+  <div class="col-xs">
+    <h1>{{ site.data.places.heading.[page.lang] | escape }}</h1>
+  </div>
+</div>
+
+<div class="row text-xs-center">
+<div class="col-md-12 col-xs-10">
+  <img  align='center' class="rounded img center-block" src="/img/map.jpg"> 
+</div>
+</div>
+
+<br>
+<br>
+
+{% assign places = site.data.places.places | reverse %}
+{% for p in places reversed %}
+
+<div class="row">
+  
+  <div class="col-lg-2 col-sm-3">
+    {% assign thumbnail_src = p.thumbnail %}
+    {% assign thumbnail_alt = p.title %}
+    {% include thumbnail.html %}
+  </div>
+  <div class="hidden-sm-up mb-1 col-xs"></div>
+  
+  <div class="col-lg-10 col-sm-9">
+    <h5>{{ p.title | escape }}</h5>
+    <p> {{ p.description  }} </p>
+
+  </div>
+</div>
+{% endfor %}

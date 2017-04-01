@@ -1,0 +1,21 @@
+{% assign about = site.data.about %}
+
+   <div class="row text-xs-center">
+	   <div class="col-xs-12">
+      <h1>{{ about.heading.[page.lang] | escape }}</h1>
+      <p class="lead">{{ about.lead.[page.lang] | escape }}</p>
+      </div>
+   </div>
+  
+  <div class="row">
+  	  
+  	 <div class="col-xs-12 text-xs-center">
+		<img  class="rounded img" height="300px" src="/img/elisa.jpg">
+	 </div>
+    <div class="col-xs-12">
+      <p class="text-xs-left">{{ about.about.[page.lang] }}</p>
+    </div>
+    
+
+    
+  </div>

@@ -1,6 +1,4 @@
----
-layout: compress
----
+
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
 
@@ -10,29 +8,36 @@ layout: compress
 
 {% include navbar.html %}
 
+<section id="banner" class="container-flex">
+	<img  class="rounded img-fluid" src="/img/banner_garona.jpg" 
+	      style = "height:350px; background-size: cover; background-position: center; width: 100%;">
+</section>
+
 <section id="header" class="container">
 {% include header.html %}
 </section>
 
-<section id="publications" class="container">
-{% include publications.html %}
+<section id="places" class="container">
+{% include places.html %}
 </section>
 
-<section id="projects" class="container">
+<!--<section id="projects" class="container">
 {% include projects.html %}
 </section>
+-->
 
-<section id="talks" class="container">
-{% include talks.html %}
-</section>
-
-<section id="teaching" class="container">
-{% include teaching.html %}
-</section>
-
-<section id="contact" class="container">
+<!--<section id="contact" class="container">
 {% include contact.html %}
+</section>-->
+
+<section id="about" class="container">
+{% include about.html %}
 </section>
+
+<section id="booking" class="container">
+{% include booking.html %}
+</section>
+
 
 <section id="footer">
 {% include footer.html %}
