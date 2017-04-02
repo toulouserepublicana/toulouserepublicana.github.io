@@ -9,49 +9,46 @@
 <div class="row text-xs-center">
    <div class="col-xs-12 text-xs-center">
   
-<form action="http://formspree.io/alberto.lumbreras@gmail.com" method="POST">
+		<form action="http://formspree.io/alberto.lumbreras@gmail.com" method="POST">
 
-  <div class="input-group">
-    <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
-    <input id="name" type="text" class="form-control" name="name" placeholder="Nombre y apellido">
-  </div>
-    <br>
-    
-  <div class="input-group">
-    <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-    <input id="email" type="text" class="form-control" name="email" placeholder="Email">
-  </div>
-    <br>
+		  <div class="input-group">
+			<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+			<input id="name" type="text" class="form-control" name="name" placeholder="Nombre y apellido">
+		  </div>
+			<br>
+			
+		  <div class="input-group">
+			<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+			<input id="email" type="text" class="form-control" name="email" placeholder="Email">
+		  </div>
+			<br>
 
-  <div class="input-group">
-      <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-      <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="Repita el email">
-    </div>
-   <br>
+		  <div class="input-group">
+			  <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+			  <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="Repita el email">
+			</div>
+		   <br>
 
-  <div class="input-group">
-      <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
-      <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="Número de personas">
-    </div>
-   <br>
-   
+		  <div class="input-group">
+			  <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
+			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="Número de personas">
+			</div>
+		   <br>
+		   
 
-  <div id="datepicking" class="input-group date" data-provide="datepicker">
-      <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
-      <input id="date" type="date" class="form-control" name="date" placeholder="Fecha">
-  </div>
-  
-  <!--<div id="datepicking"</div>
-	<input type="hidden" id="my_hidden_input">-->
-
-   <br>
-	
-    <button type="submit" class="btn btn-secondary"><b>Reserva</b></button>
-
-</form>
+		  <div id="datepicking" class="input-group date" data-provide="datepicker">
+			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+			  <input id="date" type="date" class="form-control" name="date" placeholder="Fecha">
+		  </div>
+		  
+		   <br>
+			<button type="submit" class="btn btn-secondary"><b>Reserva</b></button>
+		</form>
    </div>
 </div>
-
+		<!--<button type="button" class="btn btn-secondary" onclick="window.open('{{site.url}}/terms.html')">Términos y condiciones</button>-->
+		<span class="fa fa-file-text-o"> <a href="{{site.url}}/terms.html" target="_blank" type="submit">
+		   </span> Términos y condiciones</a>
 <script>
 $('#datepicking').datepicker({
 	    container: "body",

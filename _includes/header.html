@@ -1,14 +1,19 @@
 {% assign header = site.data.header %}
-<header>
-  <div class="row flex-items-xs-center text-xs-center">
-	  <!--<div class="col-md-12">
-			<img  class="rounded img-fluid" height="50rem" src="/img/minimes.jpg" style = "background-size: cover; background-position: center; width: 100%;">
-	  </div>-->
-	  
-    <div class="col-md-12">
-      <h1>{{ header.heading.[page.lang] | escape }}</h1>
-      <p class="lead">{{ header.lead.[page.lang] | escape }}</p>
-      <p class="text-xs-left">{{ header.about.[page.lang] }}</p>
+<header>	
+	
+	<div class="container">
+	<div class="row text-xs-center mb-1">
+	  <div class="col-xs">
+		<h1>{{ header.heading.[page.lang] | escape }}</h1>
+		<p class="lead">{{ header.lead.[page.lang] | escape }}</p>
+	  </div>
     </div>
-  </div>
+    
+    <div class="row text-xs-center mb-1">
+	  <div class="col-xs-12">	 
+	   <p class="text-xs-left">{{ header.about.[page.lang] }}</p>
+	  </div>  
+    </div>
+
+</div>
 </header>
