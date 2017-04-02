@@ -8,10 +8,7 @@
 
 <div class="row text-xs-center">
    <div class="col-xs-12 text-xs-center">
-	</div>
-</div>
-
-       
+  
 <form action="http://formspree.io/alberto.lumbreras@gmail.com" method="POST">
 
   <div class="input-group">
@@ -42,24 +39,31 @@
   <div id="datepicking" class="input-group date" data-provide="datepicker">
       <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
       <input id="date" type="date" class="form-control" name="date" placeholder="Fecha">
-    </div>
+  </div>
+  
+  <!--<div id="datepicking"</div>
+	<input type="hidden" id="my_hidden_input">-->
+
+   <br>
+	
+    <button type="submit" class="btn btn-secondary"><b>Reserva</b></button>
+
+</form>
+   </div>
+</div>
 
 <script>
-	
-$('.datepicker').datepicker({
+$('#datepicking').datepicker({
+	    container: "body",
+        weekStart: 1,
+        maxViewMode: 0,
+        language: "es",
         daysOfWeekDisabled: "1,2,3,4,5",
         daysOfWeekHighlighted: "0,6",
         autoclose: true,
         todayHighlight: true
 });
 
-</script>
-
-   <br>
-
-  <button type="submit" class="btn btn-default">Reserva</button> 
-
-</form>
-    
+</script>    
 
 
