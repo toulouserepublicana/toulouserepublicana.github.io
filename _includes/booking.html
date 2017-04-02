@@ -37,38 +37,29 @@
       <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="Número de personas">
     </div>
    <br>
+   
 
-  <div class="input-group date" data-provide="datepicker">
+  <div id="datepicking" class="input-group date" data-provide="datepicker">
       <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
       <input id="date" type="date" class="form-control" name="date" placeholder="Fecha">
     </div>
+
+<script>
+	
+$('.datepicker').datepicker({
+        daysOfWeekDisabled: "1,2,3,4,5",
+        daysOfWeekHighlighted: "0,6",
+        autoclose: true,
+        todayHighlight: true
+});
+
+</script>
+
    <br>
-       
+
   <button type="submit" class="btn btn-default">Reserva</button> 
 
 </form>
+    
 
-<div class="input-group date" data-provide="datepicker">
-    <input type="date" class="form-control">
-    <div class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></div>
-    
-    <script>
-    $('#sandbox-container div').datepicker({
-        daysOfWeekDisabled: "1,2,3,4,5",
-        daysOfWeekHighlighted: "0,6",
-        autoclose: true,
-        todayHighlight: true
-    });
-</script>
-    
-</div>
-    
-<script>
-    $('#sandbox-container div').daaatepicker({
-        daysOfWeekDisabled: "1,2,3,4,5",
-        daysOfWeekHighlighted: "0,6",
-        autoclose: true,
-        todayHighlight: true
-    });
-</script>
 
