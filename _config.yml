@@ -2,7 +2,7 @@
 timezone: Europe/Berlin
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-url: '' # the base hostname & protocol for your site
+url: 'http://www.albertolumbreras.net/toulouse-republica/' # the base hostname & protocol for your site
 
 title: 'Toulouse Republicano'
 author: 'Elisa Vílches'
