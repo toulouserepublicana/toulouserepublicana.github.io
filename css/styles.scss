@@ -38,6 +38,10 @@ $link-hover-decoration: none;
 
 // common
 
+body {
+  color: black;
+}
+
 p {
   hyphens: auto;
   @hyphenation-resource

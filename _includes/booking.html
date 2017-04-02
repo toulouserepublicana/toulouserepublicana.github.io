@@ -11,206 +11,64 @@
 	</div>
 </div>
 
-  
-<div class="container">         
-	
-	<!--   
-      <div  class="form">
-		  
-    		<form id="contactform"> 
-    			<p class="contact"><label for="name">Nombre y apellido</label></p> 
-    			<input id="name" name="name" placeholder="Largo Caballero" required="" tabindex="1" type="text"> 
-    			 
-    			<p class="contact"><label for="email">Correo</label></p> 
-    			<input id="email" name="email" placeholder="largo@exilio.fr" required="" type="email"> 
-                
-    			         
-               <fieldset>
-                 <label>Fecha</label>
-                  <label class="month"> 
-					  <select class="select-style" name="BirthMonth">
-					  <option value="">Month</option>
-					  <option  value="01">January</option>
-					  <option value="02">February</option>
-					  <option value="03" >March</option>
-					  <option value="04">April</option>
-					  <option value="05">May</option>
-					  <option value="06">June</option>
-					  <option value="07">July</option>
-					  <option value="08">August</option>
-					  <option value="09">September</option>
-					  <option value="10">October</option>
-					  <option value="11">November</option>
-					  <option value="12" >December</option>
-                  </label>
-                 </select>
-                     
-                <label>Day<input class="birthday" maxlength="2" name="BirthDay"  placeholder="Day" required=""></label><br>
-                <label>Year <input class="birthyear" maxlength="4" name="BirthYear" placeholder="Year" required=""></label>
-              </fieldset>
-            
-            <p class="contact"><label for="phone">Teléfono</label></p> 
-            
-            <input id="phone" name="phone" placeholder="0033 14 16 99" required="" type="text"> <br>
-            <input class="buttom" name="submit" id="submit" tabindex="5" value="Reserva" type="submit"> 	 
-   </form> -->
-   
-   
-           <!--<form action="" class="register">-->
-			<form action="http://formspree.io/alberto.lumbreras@gmail.com" method="POST">
-			<fieldset class="row1">
-			   <legend>Datos personales
-                </legend>
-			      <p>
-                    <label>Nombre y apellido *
-                    </label>
-                    <input type="text" name="Nombre" class="long"/>
-                </p>
-                <p>
-                    <label>Teléfono *
-                    </label>
-                    <input type="text" name="Teléfono" maxlength="10"/>
-                </p>
-                 <p>
-                    <label>Email *
-                    </label>
-                    <input type="text" name="Correo"/>
-                    <label>Repeat email *
-                    </label>
-                    <input type="text"/>
-                </p>
-                
-                 <p>
-                    <label>Ciudad *
-                    </label>
-                    <input type="text" name="Ciudad" class="long"/>
-                </p>
-			</fieldset>   
+       
+<form action="http://formspree.io/alberto.lumbreras@gmail.com" method="POST">
 
-            <fieldset class="row3">
-                <legend>Reserva
-                </legend>
-                <p>
-                    <label>Fecha *
-                    </label>
-                    <select class="date" name="Fecha">
-                        <option value="1">01
-                        </option>
-                        <option value="2">02
-                        </option>
-                        <option value="3">03
-                        </option>
-                        <option value="4">04
-                        </option>
-                        <option value="5">05
-                        </option>
-                        <option value="6">06
-                        </option>
-                        <option value="7">07
-                        </option>
-                        <option value="8">08
-                        </option>
-                        <option value="9">09
-                        </option>
-                        <option value="10">10
-                        </option>
-                        <option value="11">11
-                        </option>
-                        <option value="12">12
-                        </option>
-                        <option value="13">13
-                        </option>
-                        <option value="14">14
-                        </option>
-                        <option value="15">15
-                        </option>
-                        <option value="16">16
-                        </option>
-                        <option value="17">17
-                        </option>
-                        <option value="18">18
-                        </option>
-                        <option value="19">19
-                        </option>
-                        <option value="20">20
-                        </option>
-                        <option value="21">21
-                        </option>
-                        <option value="22">22
-                        </option>
-                        <option value="23">23
-                        </option>
-                        <option value="24">24
-                        </option>
-                        <option value="25">25
-                        </option>
-                        <option value="26">26
-                        </option>
-                        <option value="27">27
-                        </option>
-                        <option value="28">28
-                        </option>
-                        <option value="29">29
-                        </option>
-                        <option value="30">30
-                        </option>
-                        <option value="31">31
-                        </option>
-                    </select>
-                    <select name ="Mes">
-                        <option value="1">January
-                        </option>
-                        <option value="2">February
-                        </option>
-                        <option value="3">March
-                        </option>
-                        <option value="4">April
-                        </option>
-                        <option value="5">May
-                        </option>
-                        <option value="6">June
-                        </option>
-                        <option value="7">July
-                        </option>
-                        <option value="8">August
-                        </option>
-                        <option value="9">September
-                        </option>
-                        <option value="10">October
-                        </option>
-                        <option value="11">November
-                        </option>
-                        <option value="12">December
-                        </option>
-                    </select>
-                    <input class="year" type="text" size="8" maxlength="4"/>
-                </p>
-                <p>
-                    <label>Personas *
-                    </label>
-                    <input type="number" name="Personas" value="2"  min="1" max="15"/>
-                </p>
-            </fieldset>
-           <fieldset class="row4">
-                   <div class="infobox"><h4>Importante</h4>
-                    <p>Here comes some explaining text, sed ut perspiciatis unde omnis iste natus error sit 
-                    voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab 
-                    illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.</p>
-					</div>
-             </fieldset> 
-             
-            <fieldset class="row4">
-                <legend>Términos y condiciones
-                </legend>
-                <p class="agreement">
-                    <input type="checkbox" value=""/>
-                    <label style="width:800px">*  Accepto los <a href="#">términos y condiciones</a></label>
-                </p>
-            </fieldset>
-            <div><button class="button">Reservar &raquo;</button></div>
-        </form>
-   
-   
-   
-</div>      
+  <div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+    <input id="name" type="text" class="form-control" name="name" placeholder="Nombre y apellido">
+  </div>
+    <br>
+    
+  <div class="input-group">
+    <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+    <input id="email" type="text" class="form-control" name="email" placeholder="Email">
+  </div>
+    <br>
+
+  <div class="input-group">
+      <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
+      <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="Repita el email">
+    </div>
+   <br>
+
+  <div class="input-group">
+      <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
+      <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="Número de personas">
+    </div>
+   <br>
+
+  <div class="input-group date" data-provide="datepicker">
+      <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+      <input id="date" type="date" class="form-control" name="date" placeholder="Fecha">
+    </div>
+   <br>
+       
+  <button type="submit" class="btn btn-default">Reserva</button> 
+
+</form>
+
+<div class="input-group date" data-provide="datepicker">
+    <input type="date" class="form-control">
+    <div class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></div>
+    
+    <script>
+    $('#sandbox-container div').datepicker({
+        daysOfWeekDisabled: "1,2,3,4,5",
+        daysOfWeekHighlighted: "0,6",
+        autoclose: true,
+        todayHighlight: true
+    });
+</script>
+    
 </div>
+    
+<script>
+    $('#sandbox-container div').daaatepicker({
+        daysOfWeekDisabled: "1,2,3,4,5",
+        daysOfWeekHighlighted: "0,6",
+        autoclose: true,
+        todayHighlight: true
+    });
+</script>
+

@@ -114,11 +114,7 @@ form.register input[type=text]
     border: 1px solid #E1E1E1;
     height: 18px;
 }
-form.register input[type=password]
-{
-    border: 1px solid #E1E1E1;
-    height: 18px;
-}
+
 .button
 {
     padding: 8px 10px 8px;
