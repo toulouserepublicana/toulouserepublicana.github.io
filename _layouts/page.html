@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="{{ page.lang }}">
+
+{% include head.html %}
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+{% include navbar.html %}
+
+<section id="banner" class="container-flex">
+	<img  class="rounded img-fluid" src="{{ site.url }}/img/banner_garona_rep.jpg" 
+	      style = "height:350px; background-size: cover; background-position: center; width: 100%;">
+</section>
+
+<div class="container">
+	
+	<div class="col-xs text-center">
+		<h1>Términos y condiciones</h1>
+	</div>
+	
+{{ content }}
+</div>
+
+<section id="footer">
+{% include footer.html %}
+</section>
+
+{% include scripts.html %}
+
+</body>
+</html>
