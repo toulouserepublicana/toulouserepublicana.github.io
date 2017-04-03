@@ -9,44 +9,39 @@
 
     { 
       "title"     : "Hospital Varsovia",
-      "description"  : "Uno de los recuerdos más representativos de la primera etapa del exilio
-       republicano. Fundado por la Agrupación de Guerrilleros Españoles con vocación humanista, 
-       servirá para curar a maquis y guerrilleros heridos después del episodio de la Reconquista.",
+      "description"  : "Uno de los recuerdos más representativos de la 
+      primera etapa del exilio republicano. Fundado por guerrilleros españoles 
+      con vocación humanista, abrirá sus puertas para curar a los maquis.",
       "thumbnail" : "hospital_varsovia.jpg",
     },
     { 
-      "title"     : "Quai de l’Exil",
+      "title"     : "Quai de l’Exil Républicain Espagnol",
       "description"  : "Esta orilla será testigo entre el 38-39 de la ola 
-      de refugiados más numerosa. Cerca de 200.000 personas cruzan la frontera 
-      a pie, en un periplo que durará a veces incluso años hasta llegar a 
-      las barracas de esta zona del río. Reviviremos cuál fue la respuesta 
-      del gobierno francés y los primeros meses de su organización.",
+      de refugiados más numerosa. Cerca de 200.000 personas cruzan la 
+      frontera a pie hasta llegar a las barracas de esta zona del río.",
       "thumbnail" : "quai_exil_ Davide Rizzo.jpg",
     },    
     { 
       "title"     : "Cruz Roja Republicana Española",
-      "description"  : "La calle Pargaminière esconde en su historia 
-      varios de los acontecimientos más significativos de la organización del 
-      exilio en la ciudad rosa. Los primeros dispensarios de la Cruz 
-      Roja Republicana son un claro ejemplo de ello.",
+      "description"  : "La calle Pargaminière esconde en su historia varios 
+      de los acontecimientos más significativos de la organización del 
+      exilio en la ciudad rosa. Los primeros dispensarios de la Cruz Roja 
+      Republicana son un claro ejemplo de ello.",
       "thumbnail" : "pargaminiere.jpg",
     },    
     { 
       "title"     : "Sala del Refectorio Jacobino",
       "description"  : "En la misma calle Pargaminière también se encuentra 
-      la entrada al Refectorio del Convento de los Jacobinos. 
-      En estas hermosas salas tuvieron lugar los cónclaves políticos de 
-      mayor altura durante la vida socialista y anarquista. ",
+      la entrada al Refectorio del Convento de los Jacobinos.
+      En estas hermosas salas tuvieron lugar los cónclaves políticos 
+      de mayor altura durante la vida socialista y anarquista.",
       "thumbnail" : "refectoire_jacobins.jpg",
     },           
     { 
       "title"     : "Galería de la plaza del Capitolio",
-      "description"  : "La plaza central de la ciudad fue en numerosas 
-      ocasiones el lugar de manifestación clásico de las diferentes familias 
-      del exilio. En sus cafés se congregaban los miembros del Casal Català 
-      y se recibió en la balconada del Capitolio a numerosas personalidades 
-      de la República. El valor artístico de su arconada nos permitirá dar 
-      un paseo por los puntos más representativos de la ciudad.",
+      "description"  : "La historia de la ciudad de Toulouse se narra a 
+      través de las pinturas de sus arconadas, donde queda retratada 
+      una parte de nuestra historia.",
       "thumbnail" : "arcades_capitole.jpg",
     },   
     { 
@@ -59,27 +54,26 @@
     },    
     { 
       "title"     : "Bourse du Travail (St. Sernin)",
-      "description" : "Uno de los edificios que rodean la ecléctica Basílica 
-      de Saint Sernin es la sede del sindicato francés de la CGT, donde se 
-      desarrolló parte de la actividad política de la familia comunista 
-      durante su exilio y en los tiempos de mayor persecución por la Guerra Fría.",
+      "description" : "En uno de los edificios que rodean la ecléctica 
+      Basílica de Saint Sernin se organizaba la actividad política de la 
+      familia comunista en el exilio y en los tiempos de mayor persecución 
+      de la Guerra Fría.",
       "thumbnail" : "bourse_du_travail.jpg",
     },           
     { 
       "title"     : "Plaza Wilson",
       "description"  : "Pasearemos por lo que se conocía entre la comunidad 
-      exiliada como “El Parlamento”, un lugar de reencuentro de los refugiados 
+      exiliada como *El Parlamento*, un lugar de reencuentro de los refugiados 
       donde se discutía, se iba al cine o se repartía la prensa española.",
       "thumbnail" : "place_wilson.jpg",
     },   
     { 
       "title"     : "Halle aux Grains",
-      "description"  : "Acabaremos el tour a las faldas del Canal del Midi, 
-      flanqueado a un lado por la actual Orquesta Nacional del Capitolio y 
-      antiguo mercado de abastos. Este edificio comparte barrio con el antiguo 
-      Ateneo Español y se encargará de albergar a miles de republicanos 
-      manifestantes en muchas de las citas sociales más representativas 
-      de la segunda mitad del siglo XX.",
+      "description"  : "Acabaremos el tour en la actual Orquesta Nacional. 
+      Este edificio comparte barrio con el antiguo Ateneo Español y 
+      se encargará de albergar a miles de republicanos manifestantes en 
+      muchas de las citas sociales más representativas de la segunda 
+      mitad del siglo XX.",
       "thumbnail" : "halle_aux_grains.jpg",
     }
   ]
