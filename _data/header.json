@@ -11,6 +11,12 @@
   	"en" : "Una visita guiada por la capital de la II República en el exilio",
   	"de" : "" },
 
+  "abstract": {
+	  "en": "Recorre la historia del exilio republicano español por las calles 
+	  más céntricas de Toulouse. Reviviremos episodios como la Operación Reconquista,
+	  la contribución de los republicanos a la <i>Résistence</i> contra
+	  la invasión nazi o las persecuciones policiales más sonadas durante la Guerra Fría.",
+	  }, 
   "about" : {
   	"en" : "En febrero de 1939 cruzan la frontera francesa casi 500.000 republicanos. 
   	Cataluña acaba de caer y es la última fase de la Guerra Civil. 
@@ -25,11 +31,6 @@
 	Toulouse fue la capital de la República Española durante la dictadura 
 	franquista y la ciudad de adopción de más de 150.000 republicanos que se quedaron. 
 	Un 10 &#37; de los habitantes de Tolouse tiene origen español. 
-	Basta con echar un vistazo a los buzones de las puertas para ver cómo 
-	abundan los apellidos de casa. Los Fernández, Cassany, García, Manrique, 
-	Miret y muchísimos más pueblan cada uno de los rincones de la ciudad, 
-	especialmente en el barrio de <b>Saint Cyprien</b>. Se nos oye en las terrazas, 
-	los mercados, en oficinas y en la vida política. 
 	Es imposible recorrer las calles de Toulouse sin tropezarte con el 
 	legado humano de quienes se vieron obligados a abandonar un país que 
 	nunca dejaron de recordar.
@@ -38,7 +39,7 @@
 	
 	La <i>ville rose</i>, llamada así por el color ocre y rosado del ladrillo 
 	de sus fachadas, acoge también el tramo a su paso por la ciudad del 
-	<b>Canal del Mediodía</b>, que conecta Toulouse con las orillas del Mediterráneo 
+	Canal del Mediodía, que conecta Toulouse con las orillas del Mediterráneo 
 	y del océano Atlántico. Este canal se ha convertido en un recorrido de 
 	vacaciones ideal para cruzar el sur francés de punta a punta, 
 	¡sin necesidad de salir del agua!
