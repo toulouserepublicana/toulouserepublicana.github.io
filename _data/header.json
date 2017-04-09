@@ -2,20 +2,23 @@
   "shortheading" : {
 	  "en": "Inicio",
 	  "es": "Inicio",
+	  "ca": "",
 	  },
   "heading" : {
   	"en" : "TOUR TOULOUSE REPUBLICANA",
-  	"de" : "xxxx" },
+  	"ca" : "xxxx" },
 
   "lead" : { 
   	"en" : "Una visita guiada por la capital de la II República en el exilio",
-  	"de" : "" },
+  	"ca" : "" },
 
   "abstract": {
 	  "en": "Recorre la historia del exilio republicano español por las calles 
 	  más céntricas de Toulouse. Reviviremos episodios como la Operación Reconquista,
 	  la contribución de los republicanos a la <i>Résistance</i> contra
 	  la invasión nazi o las persecuciones policiales más sonadas durante la Guerra Fría.",
+	  
+	  "ca": "",
 	  }, 
   "about" : {
   	"en" : "En febrero de 1939 cruzan la frontera francesa casi 500.000 republicanos. 
@@ -41,7 +44,7 @@
 	y compartiremos algunos de los pasajes de la Historia española de la segunda 
 	mitad del siglo XX.",
   	
-  	"de" : "" },
+  	"ca" : "" },
 
   "picture" : "minimes.jpg"
 }

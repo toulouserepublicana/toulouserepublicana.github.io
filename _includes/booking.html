@@ -41,6 +41,11 @@
 			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
 			  <input id="date" type="text" class="form-control" name="date" placeholder="Fecha (solo sábados y domingos)">
 		  </div>	
+
+			<div id="datepicking" class="input-group date" >
+				<span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
+				<input type='text' class="form-control" placeholder="Fechaaaaaaa (solo sábados y domingos" />
+			</div>
 		  
 		   <br>
 			<button type="submit" class="btn btn-secondary"><b>RESERVAR</b></button>
@@ -53,6 +58,17 @@
 </div>
 
 <script>
+$('#datepicking2').datepicker({
+	    container: "body",
+        weekStart: 1,
+        maxViewMode: 0,
+        language: "es",
+        daysOfWeekDisabled: "1,2,3,4,5",
+        daysOfWeekHighlighted: "0,6",
+        autoclose: true,
+        todayHighlight: true
+});
+
 $('#datepicking').datepicker({
 	    container: "body",
         weekStart: 1,
