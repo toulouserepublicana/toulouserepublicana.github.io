@@ -37,10 +37,24 @@
 		   <br>
 		   
 
-		  <div id="datepicking" class="input-group date" data-provide="datepicker">
+		  <div id="datepicking2" class="input-group date" data-provide="datepicker">
 			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
 			  <input id="date" type="date" class="form-control" name="date" placeholder="Fecha (solo sábados y domingos)">
-		  </div>
+		  </div>	
+			  
+		<div class="row">
+			<div class="col-sm-6">
+				<div class="form-group">
+					<div class='input-group date' id='datepicking'>
+						<input type='text' class="form-control" />
+						<span class="input-group-addon">
+							<span class="glyphicon glyphicon-calendar"></span>
+						</span>
+					</div>
+				</div>
+			</div>
+
+		</div>
 		  
 		   <br>
 			<button type="submit" class="btn btn-secondary"><b>RESERVAR</b></button>
@@ -51,6 +65,13 @@
 <div class="row text-xs-center text-md-right">
 		<div class="col-xs-12"><i class="fa fa-file-text-o" aria-hidden="true"></i>  <a href="{{site.url}}/terms.html" target="_blank"> Términos y condiciones</a> </div>
 </div>
+
+<script>
+$('#datepicking2').datetimepicker({
+        daysOfWeekDisabled: [0,3],
+        daysOfWeekHighlighted: "0,6",
+			});
+</script>
 
 <script>
 $('#datepicking').datepicker({
