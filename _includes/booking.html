@@ -37,7 +37,7 @@
 		   <br>
 		   
 
-		  <div id="datepicking2" class="input-group date" data-provide="datepicker">
+		  <div id="datepicking" class="input-group date" data-provide="datepicker">
 			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
 			  <input id="date" type="text" class="form-control" name="date" placeholder="Fecha (solo sábados y domingos)">
 		  </div>	
@@ -53,17 +53,6 @@
 </div>
 
 <script>
-$('#datepicking2').datepicker({
-	    container: "body",
-        weekStart: 1,
-        maxViewMode: 0,
-        language: "es",
-        daysOfWeekDisabled: "1,2,3,4,5",
-        daysOfWeekHighlighted: "0,6",
-        autoclose: true,
-        todayHighlight: true
-});
-
 $('#datepicking').datepicker({
 	    container: "body",
         weekStart: 1,
