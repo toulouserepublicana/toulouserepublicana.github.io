@@ -9,73 +9,91 @@
 
     { 
       "title"     : "Hospital Varsovia",
-      "description"  : "Uno de los recuerdos más representativos de la 
+      "description"  : {
+		  "en" : "Uno de los recuerdos más representativos de la 
       primera etapa del exilio republicano. Fundado por guerrilleros españoles 
       con vocación humanista, abrirá sus puertas para curar a los maquis.",
+		   "ca": ""},
       "thumbnail" : "hospital_varsovia.jpg",
     },
     { 
       "title"     : "Quai de l’Exil Républicain Espagnol",
-      "description"  : "Esta orilla será testigo entre el 38-39 de la ola 
+      "description"  : {
+		  "en": "Esta orilla será testigo entre el 38-39 de la ola 
       de refugiados más numerosa. Cerca de 200.000 personas cruzan la 
       frontera a pie hasta llegar a las barracas de esta zona del río.",
+		   "ca": ""},
       "thumbnail" : "quai.jpg",
     },    
     { 
       "title"     : "Cruz Roja Republicana Española",
-      "description"  : "La calle Pargaminière esconde en su historia varios 
+      "description"  : {
+		  "en": "La calle Pargaminière esconde en su historia varios 
       de los acontecimientos más significativos de la organización del 
       exilio en la ciudad rosa. Los primeros dispensarios de la Cruz Roja 
       Republicana son un claro ejemplo de ello.",
+			"ca": ""},
       "thumbnail" : "pargaminiere.jpg",
     },    
     { 
       "title"     : "Sala del Refectorio Jacobino",
-      "description"  : "En la misma calle Pargaminière también se encuentra 
+      "description"  : {
+		  "en" : "En la misma calle Pargaminière también se encuentra 
       la entrada al Refectorio del Convento de los Jacobinos.
       En estas hermosas salas tuvieron lugar los cónclaves políticos 
       de mayor altura durante la vida socialista y anarquista.",
+		  "ca": "" },
       "thumbnail" : "refectoire.jpg",
     },           
     { 
       "title"     : "Galería de la plaza del Capitolio",
-      "description"  : "La historia de la ciudad de Toulouse se narra a 
+      "description"  : {
+		  "en": "La historia de la ciudad de Toulouse se narra a 
       través de las pinturas de sus arconadas, donde queda retratada 
       una parte de nuestra historia.",
+		  "ca": "" },
       "thumbnail" : "arcades.jpg",
     },   
     { 
       "title"     : "Cine L’Espoir y antigua sede PSOE",
-      "description"  : "La herencia y el potencial artístico y cultural 
+      "description"  : {
+		  "en": "La herencia y el potencial artístico y cultural 
       que aporta la comunidad republicana es de un incalculable valor. 
       El Cine L’Espoir albergó en la calle Taur infinidad de representaciones 
       teatrales como, por ejemplo, El Malentendido, de Camus.",
+		  "ca": ""},
       "thumbnail" : "espoir.jpg",
     },    
     { 
       "title"     : "Bourse du Travail (St. Sernin)",
-      "description" : "En uno de los edificios que rodean la ecléctica 
+      "description" : {
+		  "en" : "En uno de los edificios que rodean la ecléctica 
       Basílica de Saint Sernin se organizaba la actividad política de la 
       familia comunista en el exilio y en los tiempos de mayor persecución 
       de la Guerra Fría.",
+		   "ca" : "" },
       "thumbnail" : "bourse_du_travail.jpg",
     },           
     { 
       "title"     : "Plaza Wilson",
-      "description"  : "Pasearemos por lo que se conocía entre la comunidad 
+      "description"  : {
+		"en": "Pasearemos por lo que se conocía entre la comunidad 
       exiliada como *El Parlamento*, un lugar de reencuentro de los refugiados 
       donde se discutía, se iba al cine o se repartía la prensa española.",
+		"ca": ""},
       "thumbnail" : "wilson.jpg",
     },   
     { 
       "title"     : "Halle aux Grains",
-      "description"  : "Acabaremos el tour en la actual Orquesta Nacional. 
+      "description"  : {
+		  "en" : "Acabaremos el tour en la actual Orquesta Nacional. 
       Este edificio comparte barrio con el antiguo Ateneo Español y 
       se encargará de albergar a miles de republicanos manifestantes en 
       muchas de las citas sociales más representativas de la segunda 
       mitad del siglo XX.",
+		  "ca" : ""},
       "thumbnail" : "halle.jpg",
-    }
+    },
   ]
 
 }
