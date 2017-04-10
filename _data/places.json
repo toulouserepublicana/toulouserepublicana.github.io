@@ -7,14 +7,11 @@
 
   "places" : [ 
     { 
-<<<<<<< HEAD
       "title"     : {
 					"en" : "Hospital Varsovia" ,
 					"ca" : "Hospital Varsòvia" ,
 					"fr" : "Hôpital Varsovie"},
-=======
       "title"     : "Hospital Varsovia",
->>>>>>> 9c82a01996fcf0fd72f09bc20c336afe4c762017
       "description"  : {
 					"en" : "Uno de los recuerdos más representativos de la 
       primera etapa del exilio republicano. Fundado por guerrilleros españoles 
