@@ -31,13 +31,13 @@
   
   <div class="col-lg-2 col-sm-3">
     {% assign thumbnail_src = p.thumbnail %}
-    {% assign thumbnail_alt = p.title %}
+    {% assign thumbnail_alt = p.title.[page.lang] %}
     {% include thumbnail.html %}
   </div>
   <div class="hidden-sm-up mb-1 col-xs"></div>
   
   <div class="col-lg-10 col-sm-9">
-    <h5>{{ p.title | escape }}</h5>
+    <h5>{{ p.title.[page.lang] | escape }}</h5>
     <p> {{ p.description.[page.lang]  }} </p>
 
   </div>
