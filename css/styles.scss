@@ -54,6 +54,8 @@ h1 {
 .navbar {
 
   background-color: $body-bg;
+  font-weight: bold;
+  text-transform: uppercase;
 
   #lang-select {
 
@@ -91,6 +93,16 @@ h1 {
     background: none;
   }
 }
+
+#bbanner{
+   height:350px; 
+   background-size: cover; 
+   background-position: center; 
+   width: 100%;
+   position: relative;
+}
+
+
 
 header {
   margin-top: 4rem;
