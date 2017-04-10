@@ -4,26 +4,34 @@
     "fr" : "Réservations",
   	"ca" : "Reserves" },
 
-  "email" : "elisa.vilches@gmail.com", 
+  "name": {
+	  "es": "Nombre y apellidos",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"},
 
-  "email_label" : {
-    "es" : "E-Mail",
-    "fr" : "E-Mail" },
+  "email": {
+	  "es": "Email",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"},
 
-  "phone" : { 
-    "es" : "+49 163 568 2818",
-    "de" : "0163 568 2818" },
+  "repeat": {
+	  "es": "Repita el mail",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"},
+	  
+  "People": {
+	  "es": "Repita el mail",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"},
+	  
+  "Fecha": {
+	  "es": "Solo sabados",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"},
 
-  "phone_label" : {
-    "es" : "Phone",
-    "de" : "Telefon" },
-
-  "refs" : [ 
-  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/elisavilches" },
-  	],
-
-  "refs_label" : {
-    "es" : "More",
-    "de" : "Weitere" },
+  "book": {
+	  "es": "Reservar",
+	  "fr": "Nom et prénom",
+	  "cat": "Nom i cognoms"}
 
 }
