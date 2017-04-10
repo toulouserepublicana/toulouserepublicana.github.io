@@ -1,0 +1,40 @@
+{ 
+  "heading" : {
+  	"en" : "La guía",
+  	"de" : "xxxx" },
+
+  "lead" : { 
+  	"en" : "Elisa",
+  	"de" : "." },
+
+  "about" : {
+  	"en" : "
+	¡Hola!
+	
+	<br><br>
+	
+	Soy Elisa, nacida en Barcelona, traductora de profesión y radicada 
+	hace más de cuatro años en el país galo. Tras una corta estancia en 
+	París y un largo período en Bretaña, he acabado en esta ciudad rosa 
+	de la que me enamoré por muchos motivos. Sus antepasados cátaros, la 
+	mezcla de cultura mediterránea, su gastronomía occitana y la inolvidable 
+	historia compartida con el otro lado de los Pirineos la han convertido 
+	en una indiscutible fuente de riqueza histórica y cultural.
+	
+	<br><br>
+	
+	Pero pese a ser vecinos muy cercanos, es sorprendente lo poco que 
+	sabemos los unos de los otros. O, a veces, lo mucho que saben los demás 
+	de nuestra propia tierra. Y es mi deseo, como apasionada de la historia 
+	europea del siglo XX, aportar mi granito de arena a la memoria de una 
+	etapa que, a veces intencionadamente, tiende a olvidarse.
+
+	<br><br>
+	De ese deseo nace este tour, que tiene como finalidad recorrer la 
+	memoria de cientos de miles de mujeres y hombres que imaginaron 
+	otro país que se vieron obligados a abandonar.",
+  	
+  	"es" : "" },
+
+  "picture" : "elisa.jpg"
+}
