@@ -5,6 +5,47 @@
     "fr": "Parcour",
     "en" : "Itinerario"},
 
+  "start": {
+	  "es": "Inicio",
+	  "fr": "",
+	  "ca": "",
+	  "desc": {
+		  "es": "Metro...",
+		  "fr": "Metro...",
+		  "ca": "Metro..."}
+	  },
+
+  "end": {
+	  "es": "Inicio",
+	  "fr": "",
+	  "ca":
+	  "desc": {
+		  "es": "Metro...",
+		  "fr": "Metro...",
+		  "ca": "Metro..."}
+	  },
+
+  "duration": {
+	  "es": "Inicio",
+	  "fr": "",
+	  "ca":
+	  "desc": {
+		  "es": "Metro...",
+		  "fr": "Metro...",
+		  "ca": "Metro..."}
+	  },
+
+  "language": {
+	  "es": "Inicio",
+	  "fr": "",
+	  "ca": "",
+	  "desc": {
+		  "es": "Metro...",
+		  "fr": "Metro...",
+		  "ca": "Metro..."}
+	  },
+
+
   "places" : [ 
     { 
       "title"     : {
