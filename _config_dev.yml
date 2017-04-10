@@ -1,0 +1,51 @@
+# Site settings
+timezone: Europe/Berlin
+
+#baseurl: '/toulouse-republica/' # the subpath of your site, e.g. /blog/
+#url: 'https://elisavilches.github.io/tolosalaroja/' # the base hostname & protocol for your site
+
+title: 'Tour Toulouse Republicano'
+author: 'Elisa Vílches'
+
+languages: [ 'es', 'ca', 'fr', 'en' ]
+
+google_font_sans_serif: 'Source+Sans+Pro:300'
+
+default_thubmnail_img_dimensions: 'width="768" height="768"'
+
+# Handling Reading
+safe: true
+encoding: utf-8
+
+# Build settings
+markdown: kramdown
+
+# Outputting
+exclude: [
+  'cibuild',
+  'Gemfile',
+  'Gemfile.lock',
+  'package.json',
+  'README.md',
+  'vendor']
+
+defaults:
+  - scope:
+      path: ''
+    values:
+      lang: en
+      description: 'Tour del exilio republicano español en Toulouse.'
+  - scope:
+      path: 'de'
+    values:
+      lang: cat
+      description: 'Tour del exilio republicano español en Toulouse.'
+  - scope:
+      path: 'en'
+    values:
+      lang: en
+
+# CSS Minification
+sass:
+  style: compressed
+
