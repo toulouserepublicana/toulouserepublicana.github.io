@@ -1,20 +1,21 @@
 { 
   "heading" : {
-    "en" : "Reservas",
-  	"de" : "Reservas" },
+    "es" : "Reservas",
+    "fr" : "Réservations",
+  	"ca" : "Reserves" },
 
   "email" : "elisa.vilches@gmail.com", 
 
   "email_label" : {
-    "en" : "E-Mail",
-    "de" : "E-Mail" },
+    "es" : "E-Mail",
+    "fr" : "E-Mail" },
 
   "phone" : { 
-    "en" : "+49 163 568 2818",
+    "es" : "+49 163 568 2818",
     "de" : "0163 568 2818" },
 
   "phone_label" : {
-    "en" : "Phone",
+    "es" : "Phone",
     "de" : "Telefon" },
 
   "refs" : [ 
@@ -22,7 +23,7 @@
   	],
 
   "refs_label" : {
-    "en" : "More",
+    "es" : "More",
     "de" : "Weitere" },
 
 }

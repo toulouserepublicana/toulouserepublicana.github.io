@@ -7,7 +7,7 @@ url: 'https://elisavilches.github.io/tolosalaroja/' # the base hostname & protoc
 title: 'Tour Toulouse Republicano'
 author: 'Elisa Vílches'
 
-languages: [ 'es', 'ca', 'fr', 'en' ]
+languages: [ 'es', 'ca', 'fr']
 
 google_font_sans_serif: 'Source+Sans+Pro:300'
 
@@ -33,17 +33,17 @@ defaults:
   - scope:
       path: ''
     values:
-      lang: en
+      lang: es
       description: 'Tour del exilio republicano español en Toulouse.'
   - scope:
-      path: 'de'
+      path: 'fr'
     values:
-      lang: cat
+      lang: fr
       description: 'Tour del exilio republicano español en Toulouse.'
   - scope:
-      path: 'en'
+      path: 'ca'
     values:
-      lang: en
+      lang: ca
 
 # CSS Minification
 sass:

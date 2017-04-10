@@ -1,19 +1,19 @@
 {
   "heading" : {
     "es" : "Recorrido",
-    "cat": "Recorregut",
+    "ca": "Recorregut",
     "fr": "Parcour",
     "en" : "Itinerario"},
 
   "places" : [ 
     { 
       "title"     : {
-					"en" : "Hospital Varsovia" ,
+					"es" : "Hospital Varsovia" ,
 					"ca" : "Hospital Varsòvia" ,
 					"fr" : "Hôpital Varsovie"},
       "title"     : "Hospital Varsovia",
       "description"  : {
-					"en" : "Uno de los recuerdos más representativos de la 
+					"es" : "Uno de los recuerdos más representativos de la 
       primera etapa del exilio republicano. Fundado por guerrilleros españoles 
       con vocación humanista, abrirá sus puertas para curar a los maquis." ,
 					"ca" : "Un dels records més representatius de la primera etapa
@@ -26,11 +26,11 @@
     
     { 
       "title"     : {
-					"en" : "Quai de l'Exil Républicain Espagnol" ,
+					"es" : "Quai de l'Exil Républicain Espagnol" ,
 					"ca" : "Quai de l'Exil Républicain Espagnol" ,
 					"fr" : "Quai de l'Exil Républicain Espagnol" },
       "description"  : {
-		          "en" : "Esta orilla será testigo entre el 38-39 de la ola 
+		          "es" : "Esta orilla será testigo entre el 38-39 de la ola 
       de refugiados más numerosa. Cerca de 200.000 personas cruzan la 
       frontera a pie hasta llegar a las barracas de esta zona del río." ,
 		        "ca" : "Aquesta riba serà testimoni entre el 38-39 de la onada
@@ -46,11 +46,11 @@
     
     { 
       "title"     : {
-        		"en" : "Cruz Roja Republicana Española" ,
+        		"es" : "Cruz Roja Republicana Española" ,
         		"ca" : "Creu Roja Republicana Espanyola" ,
         		"fr" : "Croix-Rouge républicaine espagnole" },
       "description"  : {
-		  "en": "La calle Pargaminière esconde en su historia varios 
+		  "es": "La calle Pargaminière esconde en su historia varios 
       de los acontecimientos más significativos de la organización del 
       exilio en la ciudad rosa. Los primeros dispensarios de la Cruz Roja 
       Republicana son un claro ejemplo de ello." ,
@@ -69,11 +69,11 @@
     
     { 
       "title"     : {
-  		  "en" : "Sala del Refectorio Jacobino",
+  		  "es" : "Sala del Refectorio Jacobino",
   		  "ca" : "Sala del Refectori Jacobí",
   		  "fr" : "Le Réfectoire des Jacobins" },
       "description"  : {
-    		  "en" : "En la misma calle Pargaminière también se encuentra 
+    		  "es" : "En la misma calle Pargaminière también se encuentra 
           la entrada al Refectorio del Convento de los Jacobinos.
           En estas hermosas salas tuvieron lugar los cónclaves políticos 
           de mayor altura durante la vida socialista y anarquista." ,
@@ -89,11 +89,11 @@
     
     { 
       "title"     : {
-  		  "en" : "Galería de la plaza del Capitolio",
+  		  "es" : "Galería de la plaza del Capitolio",
   		  "ca" : "Galeria de la plaça del Capitoli",
   		  "fr" : "Galerie d'arcades de la place du Capitole" },
       "description"  : {
-  		  "en": "La historia de la ciudad de Toulouse se narra a 
+  		  "es": "La historia de la ciudad de Toulouse se narra a 
         través de las pinturas de sus arconadas, donde queda retratada 
         una parte de nuestra historia.",
   		  "ca": "La història de la ciutat de Toulouse es narra a
@@ -106,11 +106,11 @@
     
     { 
       "title"     : {
-		  "en" : "Cine L’Espoir y antigua sede PSOE" ,
+		  "es" : "Cine L’Espoir y antigua sede PSOE" ,
 		  "ca" : "Cinema L'Espoir i antiga seu del PSOE" ,
 		  "fr" : "Cinéma L'Espoir et ancien siège du PSOE (Parti Socialiste Ouvrier Espagnol)" },
       "description"  : {
-		  "en": "La herencia y el potencial artístico y cultural 
+		  "es": "La herencia y el potencial artístico y cultural 
       que aporta la comunidad republicana es de un incalculable valor. 
       El Cine L’Espoir albergó en la calle Taur infinidad de representaciones 
       teatrales como, por ejemplo, El Malentendido, de Camus." ,
@@ -126,12 +126,12 @@
     
     { 
       "title"     : {
-  		  "en" : "Bourse du Travail (St. Sernin)" ,
+  		  "es" : "Bourse du Travail (St. Sernin)" ,
   		  "ca" : "Bourse du Travail (St. Sernin)" ,
   		  "fr" : "Bourse du Travail (St. Sernin)" },
 
       "description" : {
-		  "en" : "En uno de los edificios que rodean la ecléctica 
+		  "es" : "En uno de los edificios que rodean la ecléctica 
       Basílica de Saint Sernin se organizaba la actividad política de la 
       familia comunista en el exilio y en los tiempos de mayor persecución 
       de la Guerra Fría.",
@@ -147,11 +147,11 @@
     
     { 
       "title"     : {
-  		  "en" : "Plaza Wilson" ,
+  		  "es" : "Plaza Wilson" ,
   		  "ca" : "Plaça Wilson" ,
   		  "fr" : "Place Wilson" },
       "description"  : {
-    		"en" : "Pasearemos por lo que se conocía entre la comunidad 
+    		"es" : "Pasearemos por lo que se conocía entre la comunidad 
           exiliada como *El Parlamento*, un lugar de reencuentro de los refugiados 
           donde se discutía, se iba al cine o se repartía la prensa española.",
     		"ca" : "Passejarem pel que es coneixia entre la comunitat exiliada com “El Parlament”, un lloc de
@@ -163,11 +163,11 @@
     },
     {
       "title"     : {
-  		  "en" : "Halle aux Grains" ,
+  		  "es" : "Halle aux Grains" ,
   		  "ca" : "Halle aux Grains" ,
   		  "fr" : "Halle aux Grains" },
       "description"  : {
-  		  "en" : "Acabaremos el tour en la actual Orquesta Nacional. 
+  		  "es" : "Acabaremos el tour en la actual Orquesta Nacional. 
         Este edificio comparte barrio con el antiguo Ateneo Español y 
         se encargará de albergar a miles de republicanos manifestantes en 
         muchas de las citas sociales más representativas de la segunda 

@@ -1,14 +1,16 @@
 { 
   "heading" : {
-  	"en" : "La guía",
-  	"de" : "xxxx" },
+  	"es" : "La guía",
+  	"ca" : "La guia",
+  	"fr" : "La guide" },
 
   "lead" : { 
-  	"en" : "Elisa",
-  	"de" : "." },
+  	"es" :  "Elisa",
+  	"ca" : "Elisa",
+  	"fr" :  "Elisa"},
 
   "about" : {
-  	"en" : "
+  	"es" : "
 	¡Hola!
 	
 	<br><br>
