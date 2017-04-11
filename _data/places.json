@@ -1,48 +1,48 @@
 {
   "heading" : {
-    "es" : "Recorrido",
-    "ca": "Recorregut",
-    "fr": "Parcour",
+    "es" : "Itinerario",
+    "ca": "Itinerari",
+    "fr": "Itinéraire",
     "en" : "Itinerario"},
 
   "start": {
 	  "es": "Inicio",
-	  "fr": "",
-	  "ca": "",
+	  "fr": "Début",
+	  "ca": "Inici",
 	  "desc": {
-		  "es": "Metro...",
-		  "fr": "Metro...",
-		  "ca": "Metro..."}
+		  "es": "Metro Saint-Cyprien République (línea A)",
+		  "fr": "Métro Saint-Cyprien République (ligne A)",
+		  "ca": "Metro Saint-Cyprien République (línia A)"}
 	  },
 
   "end": {
-	  "es": "Inicio",
-	  "fr": "",
-	  "ca": "",
+	  "es": "Fin",
+	  "fr": "Fin",
+	  "ca": "Final",
 	  "desc": {
-		  "es": "Metro...",
-		  "fr": "Metro...",
-		  "ca": "Metro..."}
+		  "es": "Metro François Verdier (línea B)",
+		  "fr": "Metro François Verdier (ligne B)",
+		  "ca": "Metro François Verdier (línia B)"}
 	  },
 
   "duration": {
-	  "es": "Inicio",
-	  "fr": "",
-	  "ca": "",
+	  "es": "Duración",
+	  "fr": "Durée",
+	  "ca": "Durada",
 	  "desc": {
-		  "es": "Metro...",
-		  "fr": "Metro...",
-		  "ca": "Metro..."}
+		  "es": "2 h aprox.",
+		  "fr": "Environ 2 h",
+		  "ca": "2 h aprox."}
 	  },
 
   "language": {
-	  "es": "Inicio",
-	  "fr": "",
-	  "ca": "",
+	  "es": "Idioma",
+	  "fr": "Langue",
+	  "ca": "Idioma",
 	  "desc": {
-		  "es": "Metro...",
-		  "fr": "Metro...",
-		  "ca": "Metro..."}
+		  "es": "castellano",
+		  "fr": "espagnol (bientôt en Français)",
+		  "ca": "castellà"}
 	  },
 
 
