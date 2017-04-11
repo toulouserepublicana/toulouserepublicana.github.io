@@ -7,36 +7,36 @@
   "name": {
 	  "es": "Nombre y apellidos",
 	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"},
+	  "ca": "Nom i cognoms"},
 
   "email": {
 	  "es": "Correo electrónico",
 	  "fr": "Adresse électronique",
-	  "cat": "Correu electrònic"},
+	  "ca": "Correu electrònic"},
 
   "repeat": {
 	  "es": "Confirmar correo electrónico",
 	  "fr": "Confirmez votre adresse électronique",
-	  "cat": "Confirmeu el correu electrònic"},
+	  "ca": "Confirmeu el correu electrònic"},
 	  
-  "People": {
+  "people": {
 	  "es": "Número de personas",
 	  "fr": "Nombre de personnes",
-	  "cat": "Nombre de persones"},
+	  "ca": "Nombre de persones"},
 	  
-  "Date": {
+  "date": {
 	  "es": "Fecha (solo sábados y domingos)",
 	  "fr": "Date (samedis et dimanches)",
-	  "cat": "Data (només dissabtes i diumenges)"},
+	  "ca": "Data (només dissabtes i diumenges)"},
 
   "book": {
 	  "es": "RESERVAR",
 	  "fr": "RERSERVER",
-	  "cat": "RESERVA-HO"},
+	  "ca": "RESERVA-HO"},
 	
-  "T&C": {
+  "terms": {
 	  "es": "Términos y condiciones",
 	  "fr": "Termes et conditions",
-	  "cat": "Termes i condicions"},
+	  "ca": "Termes i condicions"},
 
 }

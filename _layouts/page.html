@@ -1,16 +1,27 @@
 <!DOCTYPE html>
 <html lang="{{ page.lang }}">
-
 {% include head.html %}
 
 <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
 
 {% include navbar.html %}
 
-<section id="banner" class="container-flex">
+<!--<section id="banner" class="container-flex">
 	<img  class="rounded img-fluid" src="{{ site.url }}/img/banner_garona_rep.jpg" 
 	      style = "height:350px; background-size: cover; background-position: center; width: 100%;">
-</section>
+</section>-->
+
+<section id="banner" class="container-flex">
+	<div class="hidden-xs">
+	<img src="{{ site.url }}/img/banner_garona_rep.jpg" 
+	style = 
+"position: relative;
+margin: 0px auto;
+width: 100%;
+height: 100%;
+z-index: 1;">
+</div>
+</section>  
 
 <div class="container">
 	

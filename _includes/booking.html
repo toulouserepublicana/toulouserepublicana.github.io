@@ -20,36 +20,36 @@
 			
 		  <div class="input-group">
 			<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-			<input id="email" type="text" class="form-control" name="email" placeholder="Email"  required>
+			<input id="email" type="text" class="form-control" name="email" placeholder="{{ site.data.booking.email.[page.lang] }}"  required>
 		  </div>
 			<br>
 
 		  <div class="input-group">
 			  <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-			  <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="Repita el email">
+			  <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="{{ site.data.booking.repeat.[page.lang] }}">
 			</div>
 		   <br>
 
 		  <div class="input-group">
 			  <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
-			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="Número de personas">
+			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="{{ site.data.booking.people.[page.lang] }}">
 			</div>
 		   <br>
 		   
 
 		  <div id="datepicking" class="input-group date" data-provide="datepicker">
 			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
-			  <input id="date" type="text" class="form-control" name="date" placeholder="Fecha (solo sábados y domingos)">
+			  <input id="date" type="text" class="form-control" name="date" placeholder="{{ site.data.booking.date.[page.lang] }}">
 		  </div>	
 		  
 		   <br>
-			<button type="submit" class="btn btn-secondary"><b>RESERVAR</b></button>
+			<button type="submit" class="btn btn-secondary"><b>{{ site.data.booking.book.[page.lang] }}</b></button>
 		</form>
    </div>
 </div>
 		
 <div class="row text-xs-center text-md-right">
-		<div class="col-xs-12"><i class="fa fa-file-text-o" aria-hidden="true"></i>  <a href="{{site.url}}/terms.html" target="_blank"> Términos y condiciones</a> </div>
+		<div class="col-xs-12"><i class="fa fa-file-text-o" aria-hidden="true"></i>  <a href="{{site.url}}/terms_{{page.lang}}.html" target="_blank"> {{ site.data.booking.terms.[page.lang] }}</a> </div>
 </div>
 
 <script>
