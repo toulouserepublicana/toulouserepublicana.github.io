@@ -6,7 +6,7 @@
     "en" : "Itinerario"},
   "book button" : {
     "es" : "RESERVAR",
-    "cat": "RESERVAR-HO",
+    "cat": "RESERVAR'L",
     "fr": "RESERVER",
     "en" : "RESERVAR"},
   "T&C" : {
@@ -38,6 +38,6 @@
     "es" : "Fecha (solo sábados y domingos)",
     "cat": "Data (només dissabtes i diumenges",
     "fr": "Date (samedis et dimanches)",
-    "en" : "Fecha (solo sábados y domingos"}
+    "en" : "Fecha (solo sábados y domingos"},
   
 }
