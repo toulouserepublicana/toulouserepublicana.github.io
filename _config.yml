@@ -1,9 +1,9 @@
 # Site settings
 timezone: Europe/Berlin
 
-#baseurl: '/toulouse-republica/' # the subpath of your site, e.g. /blog/
-#url: 'https://elisavilches.github.io/tolosalaroja/' # the base hostname & protocol for your site
-url: 'http://toulouserepublicana.com'
+baseurl: '/toulouse-republica/' # the subpath of your site, e.g. /blog/
+url: 'https://elisavilches.github.io/tolosalaroja/' # the base hostname & protocol for your site
+#url: 'http://toulouserepublicana.com'
 
 title: 'Tour Toulouse Republicano'
 author: 'Elisa Vílches'
