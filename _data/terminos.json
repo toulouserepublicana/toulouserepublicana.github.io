@@ -1,5 +1,5 @@
 {
-  "inicio" : {
+  "start" : {
     "es" : "Itinerario",
     "ca": "Itinerari",
     "fr": "Itinéraire",
@@ -14,7 +14,7 @@
     "ca": "Termes i condicions",
     "fr": "Termes et conditions",
     "en" : "Términos y condiciones"},
-  "Nombre" : {
+  "name" : {
     "es" : "Nombre y apellidos",
     "ca": "Nom i cognoms",
     "fr": "Nom et prénom",
