@@ -4,7 +4,7 @@
     "cat": "Itinerari",
     "fr": "Itinéraire",
     "en" : "Itinerario"},
-  "book button" : {
+  "bookbutton" : {
     "es" : "RESERVAR",
     "cat": "RESERVAR'L",
     "fr": "RESERVER",
