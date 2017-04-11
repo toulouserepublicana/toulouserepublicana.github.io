@@ -28,12 +28,12 @@
     "es" : "Confirmar correo electrónico",
     "cat": "Confirma el correu electrònic",
     "fr": "Confirmez votre adresse électronique",
-    "en" : "Confirmar correo electrónico"}
+    "en" : "Confirmar correo electrónico"},
   "people" : {
     "es" : "Número de personas",
     "cat": "Nombre de persones",
     "fr": "Nombre de personnes",
-    "en" : "Número de personas"}
+    "en" : "Número de personas"},
  "date" : {
     "es" : "Fecha (solo sábados y domingos)",
     "cat": "Data (només dissabtes i diumenges",
