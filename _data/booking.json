@@ -10,28 +10,33 @@
 	  "cat": "Nom i cognoms"},
 
   "email": {
-	  "es": "Email",
-	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"},
+	  "es": "Correo electrónico",
+	  "fr": "Adresse électronique",
+	  "cat": "Correu electrònic"},
 
   "repeat": {
-	  "es": "Repita el mail",
-	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"},
+	  "es": "Confirmar correo electrónico",
+	  "fr": "Confirmez votre adresse électronique",
+	  "cat": "Confirmeu el correu electrònic"},
 	  
   "People": {
-	  "es": "Repita el mail",
-	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"},
+	  "es": "Número de personas",
+	  "fr": "Nombre de personnes",
+	  "cat": "Nombre de persones"},
 	  
-  "Fecha": {
-	  "es": "Solo sabados",
-	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"},
+  "Date": {
+	  "es": "Fecha (solo sábados y domingos)",
+	  "fr": "Date (samedis et dimanches)",
+	  "cat": "Data (només dissabtes i diumenges)"},
 
   "book": {
-	  "es": "Reservar",
-	  "fr": "Nom et prénom",
-	  "cat": "Nom i cognoms"}
+	  "es": "RESERVAR",
+	  "fr": "RERSERVER",
+	  "cat": "RESERVA-HO"},
+	
+  "T&C": {
+	  "es": "Términos y condiciones",
+	  "fr": "Termes et conditions",
+	  "cat": "Termes i condicions"},
 
 }
