@@ -1,32 +1,43 @@
 {
   "inicio" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
+    "es" : "Itinerario",
+    "cat": "Itinerari",
+    "fr": "Itinéraire",
     "en" : "Itinerario"},
-  "termino" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
-    "en" : "Itinerario"},
-  "termino" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
-    "en" : "Itinerario"},
-  "termino" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
-    "en" : "Itinerario"},
-  "termino" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
-    "en" : "Itinerario"},
-  "termino" : {
-    "es" : "Recorrido",
-    "cat": "Recorregut",
-    "fr": "Parcour",
-    "en" : "Itinerario"}
+  "book button" : {
+    "es" : "RESERVAR",
+    "cat": "RESERVAR-HO",
+    "fr": "RESERVER",
+    "en" : "RESERVAR"},
+  "T&C" : {
+    "es" : "Términos y condiciones",
+    "cat": "Termes i condicions",
+    "fr": "Termes et conditions",
+    "en" : "Términos y condiciones"},
+  "Nombre" : {
+    "es" : "Nombre y apellidos",
+    "cat": "Nom i cognoms",
+    "fr": "Nom et prénom",
+    "en" : "Nombre y apellidos"},
+  "email" : {
+    "es" : "Correo electrónico",
+    "cat": "Correu electrònic",
+    "fr": "Adresse électronique",
+    "en" : "Correo electrónico"},
+  "confirm email" : {
+    "es" : "Confirmar correo electrónico",
+    "cat": "Confirma el correu electrònic",
+    "fr": "Confirmez votre adresse électronique",
+    "en" : "Confirmar correo electrónico"}
+  "people" : {
+    "es" : "Número de personas",
+    "cat": "Nombre de persones",
+    "fr": "Nombre de personnes",
+    "en" : "Número de personas"}
+ "date" : {
+    "es" : "Fecha (solo sábados y domingos)",
+    "cat": "Data (només dissabtes i diumenges",
+    "fr": "Date (samedis et dimanches)",
+    "en" : "Fecha (solo sábados y domingos"}
+  
 }
