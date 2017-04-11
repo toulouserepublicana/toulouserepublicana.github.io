@@ -14,7 +14,7 @@ title: Términos y condiciones
 
 - Las cancelaciones deben ser comunicadas por correo electrónico a tour@toulouserepublicana.com 48 horas antes del tour con el fin de permitir que haya otras personas que puedan participar.
 
-**3. Renuncias y execión de responsabilidad**
+**3. Renuncias y exención de responsabilidad**
 
 - La guía del tour Toulouse Republicana no acepta responsabilidad por enfermedad, hurtos, conflictos laborales, avería de maquinaria, restricciones gubernamentales, actos de guerra y/o de terrorismo, condiciones climáticas, defecto en cualquier vehículo de transporte o por cualquier contratiempo o casualidad o cualquier otra causa de fuerza mayor. Esto no se limita a, pero puede incluir:
 
