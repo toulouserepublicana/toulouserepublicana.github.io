@@ -14,6 +14,7 @@
     -->
     
     <ul class="nav navbar-nav float-xs-right" id="lang-select">
+		<li><i class="fa fa-language" aria-hidden="true"></i></li> 
       {% capture lang_lc %}{{ lang | downcase }}{% endcapture %}
       {% for lang in site.languages %}
       {% if lang != page.lang %}
@@ -25,6 +26,23 @@
       {% endif %}
       {% endfor %}
     </ul>
+    
+    
+    <!-- <button type="button" class="navbar-toggler  float-xs-right" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+     <div class="dropdown-menu dropdown-menu-left" id="lang-select">
+      {% capture lang_lc %}{{ lang | downcase }}{% endcapture %}
+      {% for lang in site.languages %}
+      {% if lang != page.lang %}
+        {% capture page_lang %}/{{ page.lang }}/{% endcapture %}
+        {% capture lang_lo %}/{{ lang | downcase }}/{% endcapture %}
+        {% capture href %}{{ page.url | replace : page_lang, lang_lo }}{% endcapture %}
+        {% capture href %}{{ href | replace : '.html', '' }}{% endcapture %}
+      <a class="dropdown-item" onclick="scrollAwareHRef($(this), '{{ href }}')" href="{{ href }}">{{ lang | upcase }} </a>
+      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#">{{ site.data.header.shortheading.[page.lang] | escape }}</a>
+      {% endif %}
+      {% endfor %}
+    </div> -->
+    
     
     <button type="button" class="navbar-toggler hidden-sm-up float-xs-right" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
     <div class="dropdown-menu dropdown-menu-right">
