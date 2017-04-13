@@ -5,6 +5,7 @@ timezone: Europe/Berlin
 #url: 'https://toulouserepublicana.github.io/' # the base hostname & protocol for your site
 
 #url: 'http://toulouserepublicana.com'
+url: 'https://toulouserepublicana.github.io' 
 
 title: 'Tour Toulouse Republicano'
 author: 'Elisa Vílches'

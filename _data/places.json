@@ -8,40 +8,42 @@
   "start": {
 	  "es": "Inicio",
 	  "fr": "Début",
-	  "ca": "Inici"},
+	  "ca": "Inici",
 	  "desc": {
 		  "es": "Metro Saint-Cyprien République (línea A)",
 		  "fr": "Métro Saint-Cyprien République (ligne A)",
 		  "ca": "Metro Saint-Cyprien République (línia A)"},
-
+	},
+	
   "end": {
 	  "es": "Fin",
 	  "fr": "Fin",
-	  "ca": "Final"},
+	  "ca": "Final",
 	  "desc": {
 		  "es": "Metro François Verdier (línea B)",
 		  "fr": "Metro François Verdier (ligne B)",
 		  "ca": "Metro François Verdier (línia B)"},
-
+	},
+	
   "duration": {
 	  "es": "Duración",
 	  "fr": "Durée",
-	  "ca": "Durada"},
+	  "ca": "Durada",
 	  "desc": {
 		  "es": "2 h aprox.",
 		  "fr": "Environ 2 h",
 		  "ca": "2 h aprox."},
-
+	},
+	
   "language": {
 	  "es": "Idioma",
 	  "fr": "Langue",
-	  "ca": "Idioma"},
+	  "ca": "Idioma",
 	  "desc": {
 		  "es": "castellano",
 		  "fr": "espagnol (bientôt en Français)",
-		  "ca": "castellà"},
-
-},
+		  "ca": "castellà"}
+	},
 
   "places" : [ 
     { 
