@@ -31,7 +31,7 @@ exclude: [
 
 defaults:
   - scope:
-      path: 'es'
+      path: ''
     values:
       lang: es
       description: 'Tour del exilio republicano español en Toulouse.'
