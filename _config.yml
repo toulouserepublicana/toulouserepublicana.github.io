@@ -47,6 +47,10 @@ defaults:
       path: 'ca'
     values:
       lang: ca
+  - scope:
+      path: 'es'
+    values:
+      lang: es
 
 # CSS Minification
 sass:
