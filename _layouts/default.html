@@ -13,28 +13,33 @@
 </section>-->
 
 <section id="banner" class="container-flex">
+
 	<div class="hidden-xs">
-	<img src="{{ site.url }}/img/banner_garona_rep.jpg" 
-	style = 
-"position: relative;
-margin: 0px auto;
-width: 100%;
-height: 100%;
-z-index: 1;">
-</div>
+		<img src="{{ site.url }}/img/banner_garona_rep.jpg" 
+			style = 	"position: relative;
+						margin: 0px auto;
+						width: 100%;
+						height: 100%;
+						z-index: 1;">
+	</div>
 
 	<div class="visible-xs">
 	<img src="{{ site.url }}/img/banner_garona_rep_small.jpg" 
-	style = 
-"position: relative;
-margin: 0px auto;
-width: 100%;
-height: 200px;
-z-index: 1;">
-</div>
-<!--<div class="col-xs-12 text-xs-center" style="background-color:#76A0D3">
-	<strong> SÁBADOS Y DOMINGOS * PRECIO LIBRE</strong>
-</div>-->
+		style = 
+				"position: relative;
+				margin: 0px auto;
+				width: 100%;
+				height: 200px;
+				z-index: 1;">
+	</div>
+	<div class="container"> 
+	<div class="row mt-1">
+		<div class="col-xs-12 text-xs-center" id="ribbon">
+			<span> {{site.data.header.ribbon.[page.lang]}}  </span>
+		</div>
+	</div>
+	</div>
+
 </section>  
 
 <section id="header" class="container">
