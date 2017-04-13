@@ -5,14 +5,14 @@ title: Términos y condiciones
  
 **1. Validez del servicio, modificaciones y enmiendas**
 
-- Todas las solicitudes de modificaciones de reserva deben dirigirse al correo tour@toulouserepublicana.com.
+- Todas las solicitudes de modificaciones de reserva deben dirigirse al correo info@toulouserepublicana.com.
 - Si solicitas un cambio de fecha u hora, intentaremos cumplir con tu solicitud; no obstante, no podemos garantizar las peticiones de cambio de fecha u hora ya que todas las solicitudes y modificaciones están sujetas a disponibilidad.
 - Tratamos de mantener los tours reducidos (entre 5 y 15 personas), pero es posible que alguna vez ese número se vea superado.
-- La guía se reserva el derecho de cancelar, cambiar o sustituir cualquier tour que hayas reservado en www.tour.toulouserepublicana.com, en cualquier momento, por cualquier razón.
+- La guía se reserva el derecho de cancelar, cambiar o sustituir cualquier tour que hayas reservado en www.toulouserepublicana.com, en cualquier momento, por cualquier razón.
 
 **2. Cancelaciones**
 
-- Las cancelaciones deben ser comunicadas por correo electrónico a tour@toulouserepublicana.com 48 horas antes del tour con el fin de permitir que haya otras personas que puedan participar.
+- Las cancelaciones deben ser comunicadas por correo electrónico a info@toulouserepublicana.com 48 horas antes del tour con el fin de permitir que haya otras personas que puedan participar.
 
 **3. Renuncias y exención de responsabilidad**
 
