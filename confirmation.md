@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ¡Reserva finalizada! * Réservation finalisée ! * ¡Reserva finalitzada! * 
+title: ¡Reserva finalizada!
 ---
  
 Tu reserva ha sido procesada correctamente. En breve recibirás
