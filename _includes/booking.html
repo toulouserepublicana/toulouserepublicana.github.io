@@ -8,7 +8,7 @@
 
 <div class="row text-xs-center">
    <div class="col-xs-12 text-xs-center">
-	   <p>info@toulouserepublicana.com</p>
+	   <p>{{ site.data.booking.text.[page.lang] }}</p>
 	</div>
 </div>
 
@@ -23,6 +23,12 @@
 			<input id="name" type="text" class="form-control" name="name" placeholder="{{ site.data.booking.name.[page.lang] }}" required>
 		  </div>
 			<br>
+
+		  <div class="input-group">
+			<span class="input-group-addon"><i class="glyphicon glyphicon-user"></i></span>
+			<input id="lastname" type="text" class="form-control" name="lastname" placeholder="{{ site.data.booking.lastname.[page.lang] }}" required>
+		  </div>
+		  <br>
 			
 		  <div class="input-group">
 			<span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>

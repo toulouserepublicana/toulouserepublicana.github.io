@@ -4,10 +4,25 @@
     "fr" : "Réservations",
   	"ca" : "Reserves" },
 
-  "name": {
+  "text": {
+	  "es": "Rellena el formulario o envía un correo a  <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
+	  "fr": "Remplissez le formulaire ou envoyez un courriel à <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
+	  "ca": "Omple el formulari o envia un correu a <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>"},
+
+  "namelastname": {
 	  "es": "Nombre y apellidos",
 	  "fr": "Nom et prénom",
 	  "ca": "Nom i cognoms"},
+
+  "name": {
+	  "es": "Nombre",
+	  "fr": "Prénom",
+	  "ca": "Nom"},
+
+  "lastname": {
+	  "es": "Apellido",
+	  "fr": "Nom",
+	  "ca": "Cognom"},
 
   "email": {
 	  "es": "Correo electrónico",
