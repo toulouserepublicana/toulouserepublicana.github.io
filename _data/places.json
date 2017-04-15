@@ -10,9 +10,9 @@
 	  "fr": "Début",
 	  "ca": "Inici",
 	  "desc": {
-		  "es": "Metro Saint-Cyprien République (línea A)",
-		  "fr": "Métro Saint-Cyprien République (ligne A)",
-		  "ca": "Metro Saint-Cyprien République (línia A)"},
+		  "es": "Metro Saint-Cyprien République (línea A). 4, Place Intérieure",
+		  "fr": "Métro Saint-Cyprien République (ligne A). 4, Place Intérieure",
+		  "ca": "Metro Saint-Cyprien République (línia A). 4, Place Intérieure"},
 	},
 	
   "end": {
@@ -41,7 +41,7 @@
 	  "ca": "Idioma",
 	  "desc": {
 		  "es": "castellano",
-		  "fr": "espagnol (bientôt en Français)",
+		  "fr": "Espagnol (bientôt en Français)",
 		  "ca": "castellà"}
 	},
 

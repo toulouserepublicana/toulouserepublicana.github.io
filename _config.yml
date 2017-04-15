@@ -2,7 +2,6 @@
 timezone: Europe/Berlin
 
 baseurl: '' # the subpath of your site, e.g. /blog/
-#url: 'https://toulouserepublicana.github.io'
 url: 'http://www.tour.toulouserepublicana.com/'  # the base hostname & protocol for your site
 
 title: 'Tour Toulouse Republicana'
