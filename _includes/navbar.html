@@ -1,7 +1,17 @@
 {% capture nav_prefix %}/{{ page.lang }}/{% endcapture %}
 <nav class="navbar navbar-light bg-faded navbar-fixed-top">
   <div class="container">
+	  
+	  
+	 <ul class="nav navbar-nav float-xs-left">
+      <li class="nav-item">
+		  <span><a  class="nav-link" href="https://www.facebook.com/toulouserepublicana/"><i class="fa fa-facebook"></i></a></span>
+        </a>
+      </li>
+    </ul>
+
 	
+	<!-- Language selector -->
     <ul class="nav navbar-nav float-xs-right" id="lang-select">
       {% capture lang_lc %}{{ lang | downcase }}{% endcapture %}
       {% for lang in site.languages %}
@@ -14,16 +24,11 @@
       {% endif %}
       {% endfor %}
     </ul>
-  
     
-    <button type="button" class="navbar-toggler hidden-sm-up float-xs-right" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
-    <div class="dropdown-menu dropdown-menu-right">
-	  <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#">{{ site.data.header.shortheading.[page.lang] | escape }}</a>
-      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#places">{{ site.data.places.heading.[page.lang] | escape }}</a>
-      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#booking">{{ site.data.booking.heading.[page.lang] | escape }}</a>
-      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#about">{{ site.data.about.heading.[page.lang] | escape }}</a>
-    </div>
-
+      
+   
+  
+      <!-- Sections -->
     <div class="collapse navbar-toggleable-xs">
       <ul class="nav navbar-nav float-xs-right">
         <li class="nav-item"><a class="nav-link" href="{{site.url}}/{{ page.lang }}/#">{{ site.data.header.shortheading.[page.lang] | escape }}</a></li>		  
@@ -32,5 +37,15 @@
         <li class="nav-item"><a class="nav-link" href="{{site.url}}/{{ page.lang }}/#about">{{ site.data.about.heading.[page.lang] | escape }}</a></li>
       </ul>
     </div>
+  
+      <!-- Dropdown menu only for mobile -->
+    <button type="button" class="navbar-toggler hidden-sm-up float-xs-right" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false"></button>
+    <div class="dropdown-menu dropdown-menu-right">
+	  <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#">{{ site.data.header.shortheading.[page.lang] | escape }}</a>
+      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#places">{{ site.data.places.heading.[page.lang] | escape }}</a>
+      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#booking">{{ site.data.booking.heading.[page.lang] | escape }}</a>
+      <a class="dropdown-item" href="{{ site.url }}/{{ page.lang }}/#about">{{ site.data.about.heading.[page.lang] | escape }}</a>
+    </div>
+  
   </div>
 </nav>

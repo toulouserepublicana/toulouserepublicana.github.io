@@ -65,12 +65,13 @@ h1 {
      width: 100%;
 }
 
+  
 .navbar {
 
   background-color: $body-bg;
   font-weight: bold;
   text-transform: uppercase;
-
+  
   #lang-select {
 
     margin-left: 1rem;
@@ -111,14 +112,11 @@ h1 {
 	}
 }
 
-#bbanner{
-   height:350px; 
-   background-size: cover; 
-   background-position: center; 
-   width: 100%;
-   position: relative;
-}
 
+.navbar-nav .nav-link {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+}
 
 
 header {
