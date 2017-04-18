@@ -44,20 +44,20 @@
 
 		  <div class="input-group">
 			  <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-			  <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="{{ site.data.booking.repeat.[page.lang] }}">
+			  <input id="email_repeat" type="text" class="form-control" name="email_repeat" placeholder="{{ site.data.booking.repeat.[page.lang] }}" required>
 			</div>
 		   <br>
 
 		  <div class="input-group">
 			  <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
-			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="{{ site.data.booking.people.[page.lang] }}">
+			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="{{ site.data.booking.people.[page.lang] }}" required>
 			</div>
 		   <br>
 		   
 
 		  <div id="datepicking" class="input-group date" data-provide="datepicker">
 			  <span class="input-group-addon"><i class="fa fa-calendar" aria-hidden="true"></i></span>
-			  <input id="date" type="text" class="form-control" name="date" placeholder="{{ site.data.booking.date.[page.lang] }}">
+			  <input id="date" type="text" class="form-control" name="date" placeholder="{{ site.data.booking.date.[page.lang] }}" required>
 		  </div>	
 		  
 		   <br>
