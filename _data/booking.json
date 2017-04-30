@@ -40,6 +40,11 @@
 	  "es": "Confirmar correo electrónico",
 	  "fr": "Confirmez votre adresse électronique",
 	  "ca": "Confirmeu el correu electrònic"},
+
+  "phone": {
+	  "es": "Teléfono (opcional)",
+	  "fr": "Portable (facultatif)",
+	  "ca": "Telèfon (opcional)"},
 	  
   "people": {
 	  "es": "Número de personas",
