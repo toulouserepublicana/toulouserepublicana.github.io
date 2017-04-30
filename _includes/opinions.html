@@ -1,0 +1,27 @@
+<div class="row text-xs-center">
+  <div class="col-xs">
+    <h1>{{ site.data.opinions.heading.[page.lang] | escape }}</h1>
+  </div>
+</div>
+
+{% assign opinions = site.data.opinions.opinions %}
+{% for o in opinions reversed %}
+<div class="row">
+  
+  <div class="col-lg-2 col-sm-3">
+    {% assign thumbnail_src = o.thumbnail %}
+    {% assign thumbnail_alt = o.description.[page.lang] %}
+    {% include thumbnail.html %}
+  </div>
+  <div class="hidden-sm-up mb-1 col-xs"></div>
+  
+  <div class="col-lg-10 col-sm-9">
+    <h5>{{ o.person | escape }}</h5>
+    <p>{{ o.description.[page.lang] }} <br><span class="text-muted"> {{ o.opinion }}</span></p>
+    <p>
+     {% if o.link %} <a href="{{ o.link }}">Enlace</a> {% endif %}
+    </p>
+
+  </div>
+</div>
+{% endfor %}

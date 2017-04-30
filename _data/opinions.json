@@ -1,0 +1,32 @@
+{	
+	"heading" : {
+		"es" : "Dicen de nosotros...",
+		"ca": "Opinions",
+		"fr": "Opinions"},
+		
+	"opinions" : [
+		{		
+			"person": "Manuel Delgado",
+			
+			"description": 
+				{
+					"es": "Antropólogo",
+					"ca": "Antropóleg",
+					"fr": "Antropologue"
+				},
+				
+			"thumbnail": "manuel_delgado.jpg",
+			
+			"opinion": "Este pasado 14 de abril, unos camaradas inauguraron 
+				esta propuesta que me permito dar a conocer, porque lo merece. 
+				Se trata de un oferta de visitas guiadas por una ciudad 
+				que fue clave para la resistencia antifranquista: Toulouse. 
+				Allí fueron a parar miles de españoles que continuaron 
+				su lucha contra el fascismo alli y aquí. Ellos y ellas merecen este homenaje 
+				y ojalá merezcamos nosotros el honor de rendírselo.",
+				
+			"link": "https://www.facebook.com/permalink.php?story_fbid=1936730346550678&id=100006411942534"
+		}
+	]
+	
+}
