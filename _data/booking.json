@@ -11,10 +11,15 @@
 	  "ca": "La filosofia del Tour Toulouse Republicana es basa en els tours de preu lliure. Al final del passeig, cada participant és lliure de pagar el que consideri que la guia es mereix."
 	  },
   
-  "text": {
-	  "es": "Rellena el formulario o envía un correo a  <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
+  "text1": {
+	  "es": "Rellena el formulario y selecciona una fecha disponible o envía un correo a  <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "fr": "Remplissez le formulaire ou envoyez un courriel à <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "ca": "Omple el formulari o envia un correu a <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>"},
+
+  "text2": {
+	  "es": "Plazas completas para el sábado 13. ¡Pero aún hay plazas para el fin de semana que viene!",
+	  "fr": "",
+	  "ca": ""},
 
   "namelastname": {
 	  "es": "Nombre y apellidos",
