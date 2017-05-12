@@ -15,11 +15,16 @@
 	  "es": "Rellena el formulario y selecciona una fecha disponible o envía un correo a  <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "fr": "Remplissez le formulaire ou envoyez un courriel à <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "ca": "Omple el formulari o envia un correu a <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>"},
-
+	
   "text2": {
-	  "es": "Plazas completas para el sábado 13. ¡Pero aún hay plazas para el fin de semana que viene!",
-	  "fr": "",
-	  "ca": ""},
+	  "es": "Sábados, a las 11:00 h. Domingos, a las 10:00 h.",
+	  "fr": "Samedi, à 11h00. Dimanche, à 10h00.",
+	  "ca": "Dissabtes, a les 11:00 h. Diumenges, a les 10:00 h."},
+	
+  "text3": {
+	  "es": "Plazas completas para el fin de semana 13-14 mayo. ¡Pero aún hay plazas para el fin de semana que viene!",
+	  "fr": "Complet pour le weekend du 13-14 Mai. Mais vous pouvez également réserver des places pour le weekend prochain !",
+	  "ca": "Places completes per al cap de setmana 13-14 maig. Però encara n'hi ha per al cap de setmana vinent!"},
 
   "namelastname": {
 	  "es": "Nombre y apellidos",
