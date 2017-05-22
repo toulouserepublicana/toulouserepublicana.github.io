@@ -19,9 +19,9 @@
          },
 
    "ribbon" : {
-	   "es" : "Free Tour (precio libre) | Sábados de 11&nbsp;h a 13&nbsp;h - Domingos de 10&nbsp;h a 12&nbsp;h",
-	   "ca" : "Free Tour (preu lliure) | Dissabtes d'11&nbsp;h a 13&nbsp;h - Diumenges de 10&nbsp;h a 12&nbsp;h",
-	   "fr" : "Free Tour (prix libre) | Samedi de 11h à 13h - Dimanche de 10h à 12h",
+	   "es" : "Free Tour (precio libre) | Sábados y domingos, de 11&nbsp;h a 13&nbsp;h",
+	   "ca" : "Free Tour (preu lliure) | Dissabtes i diumenges, d'11&nbsp;h a 13&nbsp;h",
+	   "fr" : "Free Tour (prix libre) | Samedi et dimanche, de 11h à 13h",
 	   },
 
   "abstract": {
