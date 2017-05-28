@@ -1,0 +1,25 @@
+---
+layout: page
+title: Toulouse Republicana
+---
+
+<h1 id="articulos"> </h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.type == "articulo" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+  </ul>
+
+
+  
+ <h1 id="otros">Otros</h1>
+  <ul class="posts">
+    {% for post in site.posts %}
+    {% if post.type == "minor" %}
+      <li><span>{{ post.date | date_to_string }}</span> &raquo; <a href="{{site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
+     {% endif %}
+    {% endfor %}
+  </ul> 
+  
