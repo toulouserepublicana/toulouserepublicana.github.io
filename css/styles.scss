@@ -60,9 +60,9 @@ h1 {
 #ribbon {
 	font-size:1.5rem;
     font-weight: normal;
-    font-family: "Trebuchet MS";
-    background-color:#cccdc4;
-     width: 100%;
+    font-family: "Arial";
+    background-color:#f8e347;
+    width: 100%;
 }
 
   
@@ -71,11 +71,12 @@ h1 {
   background-color: $body-bg;
   font-weight: bold;
   text-transform: uppercase;
-  
+
   #lang-select {
 
     margin-left: 1rem;
 
+    
     > li.nav-item + .nav-item {
       margin-left: 0.25rem;
     }
@@ -116,6 +117,10 @@ h1 {
 .navbar-nav .nav-link {
     padding-left: 0.5rem;
     padding-right: 0.5rem;
+}
+
+.navbar-light .navbar-nav .nav-link .bold{
+    color: rgba(138, 61, 61, 0.5);
 }
 
 

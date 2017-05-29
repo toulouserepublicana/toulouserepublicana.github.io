@@ -19,9 +19,9 @@
          },
 
    "ribbon" : {
-	   "es" : "Free Tour (precio libre) | Sábados y domingos, de 11&nbsp;h a 13&nbsp;h",
-	   "ca" : "Free Tour (preu lliure) | Dissabtes i diumenges, d'11&nbsp;h a 13&nbsp;h",
-	   "fr" : "Free Tour (prix libre) | Samedi et dimanche, de 11h à 13h",
+	   "es" : "Free Tour (precio libre) &mdash; Sábados y domingos, de 11&nbsp;h a 13&nbsp;h  &mdash; <a href='http://www.tour.toulouserepublicana.com/es/#booking'>Reservas</a>",
+	   "ca" : "Free Tour (preu lliure) &mdash; Dissabtes i diumenges, d'11&nbsp;h a 13&nbsp;h  &mdash; <a href='http://www.tour.toulouserepublicana.com/ca/#booking'>Reserves</a>",
+	   "fr" : "Free Tour (prix libre) &mdash; Samedi et dimanche, de 11h à 13h  &mdash; <a href='http://www.tour.toulouserepublicana.com/fr/#booking'>Réservations</a>"
 	   },
 
   "abstract": {
