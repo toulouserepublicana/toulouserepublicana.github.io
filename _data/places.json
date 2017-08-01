@@ -7,7 +7,7 @@
 
   "start": {
 	  "es": "Inicio",
-	  "fr": "Début",
+	  "fr": "Départ",
 	  "ca": "Inici",
 	  "desc": {
 		  "es": "Metro Saint-Cyprien République (línea A). 4, Place Intérieure",
@@ -17,7 +17,7 @@
 	
   "end": {
 	  "es": "Fin",
-	  "fr": "Fin",
+	  "fr": "Arrivée",
 	  "ca": "Final",
 	  "desc": {
 		  "es": "Metro François Verdier (línea B)",
