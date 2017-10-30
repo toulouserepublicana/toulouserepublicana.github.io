@@ -65,7 +65,7 @@
 			  <span class="input-group-addon"><i class="fa fa-users" aria-hidden="true"></i></span>
 			  <input id="number" type="number" class="form-control" name="number" min="0" max="10" placeholder="{{ site.data.booking.people.[page.lang] }}" required>
 			</div>
-		   <br>
+		   <br>	
 		   
 
 		  <div id="datepicking" class="input-group date" data-provide="datepicker">
@@ -84,6 +84,8 @@
 </div>
 
 <script>
+	
+
 $('#datepicking').datepicker({
 	    container: "body",
         weekStart: 1,
@@ -95,7 +97,8 @@ $('#datepicking').datepicker({
         datesDisabled: {{ site.data.dates_disabled.dates_disabled | jsonify }},
         autoclose: true,
         todayHighlight: true
-}).on('keypress', function(e){ e.preventDefault(); });;
+});
+
 
 
 $('form').on('submit',function(){
@@ -105,6 +108,15 @@ $('form').on('submit',function(){
    }
    return true;
 });
+
+$('form').on('submit',function(){
+   if($('#date').val() == ''){
+       alert('Fecha no válida. Elige entre una de las fechas disponibles.');
+       return false;
+   }
+   return true;
+});
+
 
 </script>    
 
