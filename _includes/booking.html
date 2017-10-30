@@ -95,7 +95,7 @@ $('#datepicking').datepicker({
         datesDisabled: {{ site.data.dates_disabled.dates_disabled | jsonify }},
         autoclose: true,
         todayHighlight: true
-});
+}).on('keypress', function(e){ e.preventDefault(); });;
 
 
 $('form').on('submit',function(){
