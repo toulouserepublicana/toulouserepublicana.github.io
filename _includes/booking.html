@@ -90,7 +90,7 @@
 <!-- bootstrap-datepicker
 $('#datepicking').datepicker({
 	    container: "body",
-	    startDate: "14/04/2018",
+	    startDate: "31/03/2018",
 		beforeShowDay: function (date){
 			disabled = {{ site.data.special_dates.disabled | jsonify }};
 			enabled = {{ site.data.special_dates.enabled | jsonify }};
@@ -110,7 +110,7 @@ $('#datepicking').datepicker({
 					}
 			  }
 			  
-			  if (current == "31/3/2018"){
+			  if (current == "14/4/2018"){
 					return {
 					  tooltip: '¡Viva la República!',
 					  enabled: true
