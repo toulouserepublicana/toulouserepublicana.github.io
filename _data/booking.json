@@ -62,9 +62,9 @@
 	  "ca": "Nombre de persones"},
 	  
   "date": {
-	  "es": "Fecha (solo sábados y domingos)",
-	  "fr": "Date (samedis et dimanches)",
-	  "ca": "Data (només dissabtes i diumenges)"},
+	  "es": "Fecha (solo sábados)",
+	  "fr": "Date (samedis)",
+	  "ca": "Data (només dissabtes)"},
 
   "book": {
 	  "es": "RESERVAR",

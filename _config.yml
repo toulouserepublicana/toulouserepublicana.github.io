@@ -1,6 +1,7 @@
 # Site settings
 timezone: Europe/Berlin
 
+# Comment these out for development
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: 'http://www.tour.toulouserepublicana.com/'  # the base hostname & protocol for your site
 

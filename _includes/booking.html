@@ -25,7 +25,6 @@
 </div>
 
 
-<!--
 <div class="row text-xs-center">
    <div class="col-xs-12 text-xs-center">
   
@@ -83,23 +82,97 @@
 		<div class="col-xs-12"><i class="fa fa-file-text-o" aria-hidden="true"></i>  <a href="{{ site.url }}/{{ page.lang }}/terms.html" target="_blank"> {{ site.data.booking.terms.[page.lang] }}</a> </div>
 </div>
 
--->
 
 <script>
 	
 
+
+<!-- bootstrap-datepicker
 $('#datepicking').datepicker({
 	    container: "body",
+	    startDate: "14/04/2018",
+		beforeShowDay: function (date){
+			disabled = {{ site.data.special_dates.disabled | jsonify }};
+			enabled = {{ site.data.special_dates.enabled | jsonify }};
+			current =  date.getDate() + "/" + (date.getMonth() + 1) + "/" + date.getFullYear();
+			
+			// If date in enabled dates
+			  if (enabled.indexOf(current) > -1){
+					return {
+					  enabled: true
+					}
+			  }
+			  
+			// If date in disabled dates
+			  if (disabled.indexOf(current) > -1){
+					return {
+					  enabled: false
+					}
+			  }
+			  
+			  if (current == "14/4/2018"){
+					return {
+					  tooltip: '¡Viva la República!',
+					  enabled: true
+					}	
+			  }
+
+			 // By default, activate saturdays and desactivate sundays
+			  if (date.getDay() == 6){
+					return {
+					  enabled: true
+					}
+			  }
+			  if (date.getDay() != 6){
+					return {
+					  tooltip: 'Example tooltip',
+					  enabled: false	  
+					}	
+			  }
+		},
+        weekStart: 1,
+        maxViewMode: 0,
+        language: {{ page.lang | jsonify }},
+        daysOfWeekHighlighted: "6",
+        datesDisabled: {{ site.data.dates_disabled.dates_disabled | jsonify }},
+        autoclose: false,
+        todayHighlight: true
+});
+
+<!-- bootstrap-datepicker
+$('#datepickingOLD').datepicker({
+	    container: "body",
+		beforeShowDay: function (date){
+		  if (date.getMonth() == 3)
+			switch (date.getDate()){
+			  case 4:
+				return {
+				  tooltip: 'Example tooltip',
+				  classes: 'active',
+				  
+				};
+			  case 18:
+				return "active";
+			  case 12:
+				   return {
+					tooltip: 'Example tooltip',
+					classes: 'active',
+				  
+				};
+		  }
+		},
         weekStart: 1,
         maxViewMode: 0,
         language: {{ page.lang | jsonify }},
         startDate: "today",
-        daysOfWeekDisabled: "1,2,3,4",
-        daysOfWeekHighlighted: "0,6",
+        daysOfWeekDisabled: "1,2,3,4,0",
+        daysOfWeekHighlighted: "6",
         datesDisabled: {{ site.data.dates_disabled.dates_disabled | jsonify }},
         autoclose: true,
         todayHighlight: true
 });
+ 
+
 
 
 
