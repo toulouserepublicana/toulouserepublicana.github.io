@@ -6,7 +6,7 @@
 
 
   "freetour": {
-	 "es": "La filosofía del Tour Toulouse Republicana se basa en los tours de precio libre. Al final del paseo, cada participante es libre de pagar lo que considere que la guía se merece." ,	  
+	  "es": "La filosofía del Tour Toulouse Republicana se basa en los tours de precio libre. Al final del paseo, cada participante es libre de pagar lo que considere que la guía se merece." ,	  
 	  "fr": "La philosophie du Tour Toulouse  Republicana se base sur le concept des tours libres ; c'est à dire, le participant décidera à la fin de la promenade le prix qu'il ou elle considère que la guide mérite." ,
 	  "ca": "La filosofia del Tour Toulouse Republicana es basa en els tours de preu lliure. Al final del passeig, cada participant és lliure de pagar el que consideri que la guia es mereix." 
     	  },   
@@ -23,7 +23,6 @@
 	  "ca": "Per rebre informació sobre les visites de grups o altres qüestions, ens pots escriure a <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>"
   	  },
 	
-
   "namelastname": {
 	  "es": "Nombre y apellidos",
 	  "fr": "Nom et prénom",
