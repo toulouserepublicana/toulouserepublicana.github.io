@@ -11,13 +11,13 @@
 	  "ca": "La filosofia del Tour Toulouse Republicana es basa en els tours de preu lliure. Al final del passeig, cada participant és lliure de pagar el que consideri que la guia es mereix." 
     	  },   
 	
-    "text1": {    
-	  "es": "LAS VISITAS GUIADAS SE HAN INTERRUMPIDO DURANTE EL INVIERNO, PERO VOLVEMOS EN PRIMAVERA. YA PUEDES RESERVAR PLAZA PARA EL 31 DE MARZO DE 2018.<br/>Las visitas se realizan todos los sábados y algunos domingos. ¡Comprueba la fecha disponible que más te convenga!</br></br>La filosofía del Tour Toulouse Republicana se basa en los tours de precio libre. Al final del paseo, cada participante es libre de pagar lo que considere que la guía se merece." ,
-	  "fr": "LES VISITES GUIDÉES SONT TERMINÉES PENDANT L'HIVER, MAIS NOUS LES REPRENONS POUR LE PRINTEMPS. DÈS MAINTENANT VOUS POUVEZ RÉSERVER VOTRE PLACE POUR LE 31 MARS 20180.</br>Les visites ont lieu tous les samedis et quelques d imanches. Vérifiez la date disponible qui vous convient le mieux !</br></br>La philosophie du Tour Toulouse  Republicana se base sur le concept des tours libres ; c'est à dire, le participant décidera à la fin de la promenade le prix qu'il ou elle considère que la guide mérite." ,
-	  "ca": "DURANT L'HIVERN HEM ATURAT LES VISITES, PERÒ TORNEM A LA PRIMAVERA. JA POTS RESERVAR PLAÇA PER AL 31 DE MARÇ DEL 2018.</br>Les visites es fan tots els dissabtes i alguns diumenges. Comprova la data disponible que més et convingui!</br></br>La filosofia del Tour Toulouse Republicana es basa en els tours de preu lliure. Al final del passeig, cada participant és lliure de pagar el que consideri que la guia es mereix."
+    "announcement": {    
+	  "es": "LAS VISITAS GUIADAS SE HAN INTERRUMPIDO DURANTE EL INVIERNO, PERO VOLVEMOS EN PRIMAVERA. YA PUEDES RESERVAR PLAZA PARA EL 31 DE MARZO DE 2018." ,
+	  "fr": "LES VISITES GUIDÉES SONT TERMINÉES PENDANT L'HIVER, MAIS NOUS LES REPRENONS POUR LE PRINTEMPS. DÈS MAINTENANT VOUS POUVEZ RÉSERVER VOTRE PLACE POUR LE 31 MARS 20180." ,
+	  "ca": "DURANT L'HIVERN HEM ATURAT LES VISITES, PERÒ TORNEM A LA PRIMAVERA. JA POTS RESERVAR PLAÇA PER AL 31 DE MARÇ DEL 2018."
 	  },
 	    
-  "text2": {
+  "info": {
 	  "es": "Para recibir información sobre visitas de grupos u otras cuestiones, puedes enviarnos un correo a  <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "fr": "Pour recevoir des renseignements sur les visites de groupes ou toute autre question, vous pouvez nous écrire à <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>",
 	  "ca": "Per rebre informació sobre les visites de grups o altres qüestions, ens pots escriure a <a href='mailto:info@toulouserepublicana.com'>info@toulouserepublicana.com</a>"
