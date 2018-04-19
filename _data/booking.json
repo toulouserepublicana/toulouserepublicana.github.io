@@ -12,9 +12,9 @@
     	  },   
 	
     "announcement": {    
-	  "es": "PLAZAS AGOTADAS PARA EL 14 DE ABRIL DE 2018. <br><br>(*) Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
-	  "fr": "COMPLET POUR LE 14 AVRIL 2018. <br><br>(*) Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
-	  "ca": "PLACES EXHAURIDES PER AL 14 D'ABRIL DEL 2018. <br><br>(*) És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
+	  "es": "(*) Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
+	  "fr": "(*) Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
+	  "ca": "(*) És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
 	  },
 	    
   "info": {
