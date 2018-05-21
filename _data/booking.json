@@ -12,9 +12,9 @@
     	  },   
 	
     "announcement": {    
-	  "es": "(*) PLAZAS COMPLETAS PARA EL 19 DE MAYO.<br>LA VISITA DEL 2 DE JUNIO QUEDA CERRADA Y SOLO SE REALIZARÁ EN FRANCÉS<br><br>.Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
-	  "fr": "(*) COMPLET POUR LE 19 MAI.<BR>LA VISITE DU 2 JUIN EST FERMÉE POUR UN GROUPE EN FRANÇAIS.<br><br>Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
-	  "ca": "(*) PLACES EXHAURIDES PER AL 19 DE MAIG.<br>LA VISITA DEL 2 DE JUNY ES FARÀ EN FRANCÈS.<br><br>És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
+	  "es": "(*) <br>EL FIN DE SEMANA DEL 8-9 DE JUNIO NO HABRÁ VISITAS GUIADAS.<br><br>Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
+	  "fr": "(*) abr>IL N'Y AURA PAS DES VISITES GUIDÉES LE WEEKEND DU 8-9 JUIN.<br><br>Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
+	  "ca": "(*) <br>EL CAP DE SETMANA DEL 8-9 DE JUNY NO HI HAURÀ VISITES GUIADES.<br><br>És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
 	  },
 	    
   "info": {
