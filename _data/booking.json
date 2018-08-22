@@ -12,9 +12,9 @@
     	  },   
 	
     "announcement": {    
-	  "es": "¡NOS HEMOS IDO DE VACACIONES! VOLVEMOS EL 25 DE AGOSTO. ¡HASTA PRONTO!<BR>(*)Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
-	  "fr": "ON EST EN VACANCES ET ON RENTRE LE 25 AOÛT ! À TRÈS BIENTÔT !<BR>(*)Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
-	  "ca": "HEM MARXAT DE VACCANCES I TORNEM EL 25 D'AGOST! FINS AVIAT!<BR>(*)És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
+	  "es": "(*)Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
+	  "fr": "(*)Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
+	  "ca": "(*)És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
 	  },
 	    
   "info": {
