@@ -12,9 +12,9 @@
     	  },   
 	
     "announcement": {    
-	  "es": "(*)Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
-	  "fr": "(*)Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
-	  "ca": "(*)És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
+	  "es": "ATENCIÓN: la visita guiada esta semana es únicamente el domingo, 23 de septiembre, a las 10:00h.<br>(*)Es posible que algunos domingos también se abran plazas. Antes de presentarte, consulta en el calendario si el día que buscas está activado." ,
+	  "fr": "ATTENTION: la visite guidée de ce weekend se deroulera uniquement le dimange, 23 septembre, à 10h00.<br>(*)Certaines visites guidées peuvent aussi se réaliser le dimanche. Nous vous prions de vérifier si le dimanche que vous voulez réserver est activé dans le calendrier." ,
+	  "ca": "ATENCIÓ: la visita guiada aquesta setmana és únicament el diumenge, 23 de setembre, a les 10:00h.<br>(*)És possible que alguns diumenges també s'obrin places. Abans de presentar-t'hi, consulta al calendari si el dia que busques està activat."
 	  },
 	    
   "info": {
