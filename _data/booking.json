@@ -6,15 +6,15 @@
 
 
   "freetour": {
-	  "es": "La filosofía del Tour Toulouse Republicana se basa en los tours de precio libre. Al final del paseo, cada participante es libre de pagar lo que considere que la guía se merece." ,	  
-	  "fr": "La philosophie du Tour Toulouse  Republicana se base sur le concept des tours libres ; c'est à dire, le participant décidera à la fin de la promenade le prix qu'il ou elle considère que la guide mérite." ,
-	  "ca": "La filosofia del Tour Toulouse Republicana es basa en els tours de preu lliure. Al final del passeig, cada participant és lliure de pagar el que consideri que la guia es mereix." 
+	  "es": "" ,	  
+	  "fr": "" ,
+	  "ca": "" 
     	  },   
 	
     "announcement": {    
-	  "es": "ATENCIÓN: Ya no hay más visitas previstas para 2018. Pronto actualizaremos las noticias.<br>",
-	  "fr": "IMPORTANT: Il n'y a plus de visites guidées prévues pour 2018. Nous vous en informeront dès que possible pour 2019.<br>",
-	  "ca": "ATENCIÓ: Ja no hi ha més visites previstes per al 2018. Aviat actualitzarem les notícies.<br>"
+	  "es": "IMPORTANTE: Este proyecto de memoria histórica ya no tiene previstas visitas para 2019. Disculpen las molestias.<br>",
+	  "fr": "IMPORTANT: On regrette de vous annoncer qu'il n'y a plus de visites guidées prévues pour 2019.<br>",
+	  "ca": "ATENCIÓ: Lamentem comunicar-vos que ja no hi ha més visites guiades previstes per al 2019.<br>"
 	  },
 	    
   "info": {
